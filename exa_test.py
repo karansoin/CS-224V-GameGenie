@@ -22,7 +22,6 @@ def search_and_save_json(query, output_path="search_results.json", **options):
             "score": result.score
         })
     
-    # Create directory if it doesn't exist
     os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
     
     # Save to JSON file
