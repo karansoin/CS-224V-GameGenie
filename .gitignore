@@ -207,3 +207,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local environment variables
+.env
+.env.local
+creds.zip
+credentials.json
+service_account.json
+token.json
