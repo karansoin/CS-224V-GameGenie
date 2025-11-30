@@ -43,3 +43,26 @@ Then select Kernel → Change Kernel → `celeste`
 ## Genie Worksheet Google Sheet
 
 [Celeste GameGenie Worksheet](https://docs.google.com/spreadsheets/d/1kpbfZkxR288BmRQ7oxaIbGfPrP4xgqDrAcx8OQz6qcg/edit?gid=2079754756#gid=2079754756)
+
+## Important Notes
+
+### LangChain Compatibility Fix
+After installing genie-worksheets, you need to apply a compatibility fix for LangChain 0.2.x:
+
+**File:** `genie-worksheets/src/worksheets/llm/llm.py`
+
+**Change:** Replace all instances of `msg.model_dump(mode="json")` with `msg.dict()`
+
+**Lines to modify:** ~107 and ~150
+
+**Before:**
+```python
+[[msg.model_dump(mode="json") for msg in message] for message in messages]
+```
+
+**After:**
+```python
+[[msg.dict() for msg in message] for message in messages]
+```
+
+This fix resolves an `AttributeError` when using LangChain versions < 0.3.x.
