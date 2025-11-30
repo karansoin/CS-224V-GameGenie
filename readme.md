@@ -39,4 +39,7 @@ jupyter notebook llm_notebook.ipynb
 ```
 
 Then select Kernel → Change Kernel → `celeste`
-Genie Worksheet Google Sheet Link: https://docs.google.com/spreadsheets/d/1kpbfZkxR288BmRQ7oxaIbGfPrP4xgqDrAcx8OQz6qcg/edit?gid=2079754756#gid=2079754756
+
+## Genie Worksheet Google Sheet
+
+[Celeste GameGenie Worksheet](https://docs.google.com/spreadsheets/d/1kpbfZkxR288BmRQ7oxaIbGfPrP4xgqDrAcx8OQz6qcg/edit?gid=2079754756#gid=2079754756)
