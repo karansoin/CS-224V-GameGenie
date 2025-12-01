@@ -10,14 +10,29 @@
       "room_name": "Start - First Platform",
       "difficulty": "beginner",
       "objective": "Learn basic dash mechanics and reach the spring",
-      "mechanics_involved": ["dash", "jump", "wall_climb"],
-      "hint_tiers": [
-        "Press the dash button while moving in any direction to dash",
-        "You can dash in 8 directions (up, down, left, right, and diagonals)",
-        "Use the spring to bounce upward - time your jump as you hit it for extra height"
+      "mechanics_involved": [
+        "dash",
+        "jump",
+        "wall_climb"
       ],
       "is_optional": false,
-      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+      "info": [
+        {
+          "instruction": "Press the dash button while moving in any direction to dash",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "You can dash in 8 directions (up, down, left, right, and diagonals)",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Use the spring to bounce upward - time your jump as you hit it for extra height",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -25,14 +40,44 @@
       "room_name": "Start - Strawberry #1",
       "difficulty": "easy",
       "objective": "Collect the first strawberry using spring and dash",
-      "mechanics_involved": ["spring", "dash", "jump"],
-      "hint_tiers": [
-        "Use the spring to gain height",
-        "Dash into the strawberry while airborne",
-        "Touch the ground after collecting to lock in the strawberry"
+      "mechanics_involved": [
+        "spring",
+        "dash",
+        "jump"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Use the spring to gain height",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Dash into the strawberry while airborne",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Touch the ground after collecting to lock in the strawberry",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": ", Up-Left. Dash in those directions and the Crystal Heart will appear. ### Strawberry \\#10 Continuing to go to the right, after the room with the secret passage in the center, hop on the spring and break the block in the upper left corner. Inside is a room with two green crystals, a spiked floor, Strawberry #10, AND the passage to the next collectible piece of fruit. Use the crystals to make it to the far wall, wait for them to regenerate and then return safely to the right side of the screen with the fruit. ### Strawberry \\#11 In the same room as Strawberry #10, climb the right-hand wall to reach the sole platform. Jump out into the middle and dash upward to find a new screen. Climb through this room, using the falling blocks and the geared platform to make it to the top. In the following room, you’ll spot the strawberry. Dash and climb your way to the brown platform. Drop down to the strawberry and dash in between the spikes to collect the green crystal. With your dash restored, dash diagonally upward to safety. ### Strawberry \\#12 Advance a few couple more rooms until you reach the room with the floating column topped with spikes in the center. Before leaving the room by going to the right, there are two other rooms that house strawberries. One of them is at the top and the other is at the bottom. Using the column in the center, climb up to the platform in the left corner to regain your dash. Hop to the right side of the column and then leap to the disappearing b",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The cor",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "not easy to 100% this game, but that’s where we come in! Our strawberry guides aim to outline every single strawberry that you can find with images and the occasional video (for when it just gets too complicated to explain with words). So, let’s get into it, shall we? ### Strawberry \\#1 ![Celeste Strawberry 1](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716274900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) For this first strawberry, jump onto the spring button. Once you are airborne, veer off to the left so that you are directly underneath the strawberry and then dash upwards. This one may seem easy, but trust me, they get harder. [iframe](https://www.youtube.com/embed/01vmyxpt2xg?feature=oembed) ### Strawberry \\#2 ![Celeste Strawberry 2](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716300800-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Make your way over to the right side of the screen. Drop down, and without using your dash, hold ZR and grab onto the lower part of the right wall. When you’re ready, kick off from the wall, grab the strawberry and then use your boost to grab onto the wall that is parallel to the one that you just jumped from. Make your way back up by jumping from one side to the other until you are back up on the flat surface that you initially jumped off of. [iframe](https://www.youtube.com/embed/RBj4MXUFXeI?feature=oembed) ### Strawberry \\#3 ![Celeste Strawberry 3](https://i1.wp.com/switcha",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -40,14 +85,50 @@
       "room_name": "Start - Strawberry #2",
       "difficulty": "easy",
       "objective": "Drop down to collect strawberry and recover to wall",
-      "mechanics_involved": ["drop", "dash", "wall_climb", "wall_jump"],
-      "hint_tiers": [
-        "Drop down from the platform above the strawberry",
-        "Dash into the wall immediately after grabbing it",
-        "Use wall climb and wall jump to get back to safety"
+      "mechanics_involved": [
+        "drop",
+        "dash",
+        "wall_climb",
+        "wall_jump"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Drop down from the platform above the strawberry",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Dash into the wall immediately after grabbing it",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Use wall climb and wall jump to get back to safety",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "este.ink/wiki/Category:Forsaken_City) - [Main chapter articles](https://celeste.ink/wiki/Category:Main_chapter_articles) Cookies help us deliver our services. By using our services, you agree to our use of cookies. [More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK ## Navigation menu ### Search",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "level, as well as the locations for the cassette tape and the Crystal Heart. ## Start ### Strawberry \\#1 The first strawberry is right out in the open on the second screen of the chapter. Use the spring to gain height and dash into the strawberry. Touch the ground to lock it in! ### Strawberry \\#2 On the screen immediately after the first strawberry is the second! Drop down from the platform above the fruit to grab it and dash into the wall to recover. Climb and wall jump back up to safety! ### Strawberry \\#3 This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it. ### Strawberry \\#4 The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to collect the strawberry and land safely. ### Strawberry \\#5 The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner. ### Strawberry \\#6 In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "nto the spring button. Once you are airborne, veer off to the left so that you are directly underneath the strawberry and then dash upwards. This one may seem easy, but trust me, they get harder. [iframe](https://www.youtube.com/embed/01vmyxpt2xg?feature=oembed) ### Strawberry \\#2 ![Celeste Strawberry 2](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716300800-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Make your way over to the right side of the screen. Drop down, and without using your dash, hold ZR and grab onto the lower part of the right wall. When you’re ready, kick off from the wall, grab the strawberry and then use your boost to grab onto the wall that is parallel to the one that you just jumped from. Make your way back up by jumping from one side to the other until you are back up on the flat surface that you initially jumped off of. [iframe](https://www.youtube.com/embed/RBj4MXUFXeI?feature=oembed) ### Strawberry \\#3 ![Celeste Strawberry 3](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716333900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) In the next room, if you notice the sign that has an up arrow with a line through it, that means that if you try to jump and dash toward the strawberry from below, then it’s going to fly away (who knew strawberries could fly…). Instead, you have to make your way to the right of screen and jump from those platforms. But look out, they’ll crumble if you’re not quick enoug",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -55,14 +136,44 @@
       "room_name": "Start - Winged Strawberry #3",
       "difficulty": "medium",
       "objective": "Collect flying strawberry without using dash",
-      "mechanics_involved": ["jump", "platforming", "winged_strawberry"],
-      "hint_tiers": [
-        "This is a winged strawberry - dashing will scare it away",
-        "Use the platforms on the right side to get above it",
-        "Drop down carefully without dashing to collect it"
+      "mechanics_involved": [
+        "jump",
+        "platforming",
+        "winged_strawberry"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "This is a winged strawberry - dashing will scare it away",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Use the platforms on the right side to get above it",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Drop down carefully without dashing to collect it",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "ht and dash into the strawberry. Touch the ground to lock it in! ### Strawberry \\#2 On the screen immediately after the first strawberry is the second! Drop down from the platform above the fruit to grab it and dash into the wall to recover. Climb and wall jump back up to safety! ### Strawberry \\#3 This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it. ### Strawberry \\#4 The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to collect the strawberry and land safely. ### Strawberry \\#5 The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner. ### Strawberry \\#6 In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump off toward the strawberry. Catch a ride back and dash through the floor above to safely clear the room. ## Crossing ### Strawberry \\#7 This strawberry is in a room above the character Theo. To find Theo, go left fro",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "wall that is parallel to the one that you just jumped from. Make your way back up by jumping from one side to the other until you are back up on the flat surface that you initially jumped off of. [iframe](https://www.youtube.com/embed/RBj4MXUFXeI?feature=oembed) ### Strawberry \\#3 ![Celeste Strawberry 3](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716333900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) In the next room, if you notice the sign that has an up arrow with a line through it, that means that if you try to jump and dash toward the strawberry from below, then it’s going to fly away (who knew strawberries could fly…). Instead, you have to make your way to the right of screen and jump from those platforms. But look out, they’ll crumble if you’re not quick enough. You don’t have to use the highest crumbling platform, and instead just jump from the second highest platform and cling onto the wall of the floating island in the middle and climb up. From there, make your way to the other side, drop down and collect your strawberry. [iframe](https://www.youtube.com/embed/vH-CmQsdOGk?feature=oembed) ### Strawberry \\#4 ![Celeste Strawberry 4](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716370900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) When you proceed upwards, take a left and you’ll enter a side room with another strawberry. In this frame, make your way to the middle section and jump up to the first step. Fro",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -70,14 +181,29 @@
       "room_name": "Start - Traffic Light Introduction",
       "difficulty": "easy",
       "objective": "Navigate through traffic light blocks",
-      "mechanics_involved": ["traffic_light_blocks", "dash", "jump"],
-      "hint_tiers": [
-        "Traffic light blocks (green/red) toggle when you dash",
-        "Green blocks are solid, red blocks let you pass through",
-        "Plan your dashes to make a safe path through"
+      "mechanics_involved": [
+        "traffic_light_blocks",
+        "dash",
+        "jump"
       ],
       "is_optional": false,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Traffic light blocks (green/red) toggle when you dash",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Green blocks are solid, red blocks let you pass through",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Plan your dashes to make a safe path through",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -85,14 +211,45 @@
       "room_name": "Start - Strawberry #4",
       "difficulty": "medium",
       "objective": "Use spring to navigate spikes and collect strawberry",
-      "mechanics_involved": ["spring", "dash", "wall_climb", "spike_navigation"],
-      "hint_tiers": [
-        "Jump and dash upward to reach the middle landing - grab the wall if needed",
-        "Use the spring to hop over the spikes",
-        "Fall downward and use your dash to collect the strawberry and land safely"
+      "mechanics_involved": [
+        "spring",
+        "dash",
+        "wall_climb",
+        "spike_navigation"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Jump and dash upward to reach the middle landing - grab the wall if needed",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Use the spring to hop over the spikes",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Fall downward and use your dash to collect the strawberry and land safely",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "the wall to recover. Climb and wall jump back up to safety! ### Strawberry \\#3 This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it. ### Strawberry \\#4 The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to collect the strawberry and land safely. ### Strawberry \\#5 The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner. ### Strawberry \\#6 In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump off toward the strawberry. Catch a ride back and dash through the floor above to safely clear the room. ## Crossing ### Strawberry \\#7 This strawberry is in a room above the character Theo. To find Theo, go left from the room with a green crystal in the center. Jump and dash diagonally to the left to hit the green crystal in this new room and dash again to make it to safe ground. Climb up the wall on the left to find a hidden area. W",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ump from the second highest platform and cling onto the wall of the floating island in the middle and climb up. From there, make your way to the other side, drop down and collect your strawberry. [iframe](https://www.youtube.com/embed/vH-CmQsdOGk?feature=oembed) ### Strawberry \\#4 ![Celeste Strawberry 4](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716370900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) When you proceed upwards, take a left and you’ll enter a side room with another strawberry. In this frame, make your way to the middle section and jump up to the first step. From there, jump and grab onto the wall on the right and then kick off and dash upwards to land on the wooden platform. Then, jump onto the spring and maneuver your way over the spikes and fall between the other spikes through that narrow gap. Be careful when you fall, because if you keep falling, you’re going to land on the spikes down the bottom. What you want to do is use your dash at the last second and dash right to the strawberry and to safety. [iframe](https://www.youtube.com/embed/Os87zotSN84?feature=oembed) ### Strawberry \\#5 ![Celeste Strawberry 5](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716422100-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Once you make it back to the frame that you were in before, you may think that there is no strawberry to collect. However, there is one in the top left hand corner waiting for you. What you w",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -100,14 +257,44 @@
       "room_name": "Start - Strawberry #5",
       "difficulty": "medium",
       "objective": "Use traffic light lift to collect strawberry",
-      "mechanics_involved": ["traffic_light_blocks", "dash", "aerial_movement"],
-      "hint_tiers": [
-        "Stand on the traffic light lift on the right",
-        "When it flings you up, dash diagonally to the upper left",
-        "Grab the strawberry in the upper left corner"
+      "mechanics_involved": [
+        "traffic_light_blocks",
+        "dash",
+        "aerial_movement"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Stand on the traffic light lift on the right",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "When it flings you up, dash diagonally to the upper left",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Grab the strawberry in the upper left corner",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "y downward, using your dash to collect the strawberry and land safely. ### Strawberry \\#5 The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner. ### Strawberry \\#6 In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump off toward the strawberry. Catch a ride back and dash through the floor above to safely clear the room. ## Crossing ### Strawberry \\#7 This strawberry is in a room above the character Theo. To find Theo, go left from the room with a green crystal in the center. Jump and dash diagonally to the left to hit the green crystal in this new room and dash again to make it to safe ground. Climb up the wall on the left to find a hidden area. Watch out for the spring on the ground beneath the spikes! Hop over the hazard and use the second spring to launch toward the wall. Grab it and jump over the spikes toward the green crystal. Dash toward safety and the strawberry. Drop down the passage on the left to see Theo. ### Strawberry \\#8 Back in the room with the green crystal in the center (Reference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right on safe ground. Instead o",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic light li",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ap. Be careful when you fall, because if you keep falling, you’re going to land on the spikes down the bottom. What you want to do is use your dash at the last second and dash right to the strawberry and to safety. [iframe](https://www.youtube.com/embed/Os87zotSN84?feature=oembed) ### Strawberry \\#5 ![Celeste Strawberry 5](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022716422100-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Once you make it back to the frame that you were in before, you may think that there is no strawberry to collect. However, there is one in the top left hand corner waiting for you. What you want to do is stand on the conveyor belt platform, and as it shoots upwards, use that momentum to jump at the last second to propel yourself upwards. As you are airborne, move over to the left towards the floating platform and hang on to the right side of it for dear life. Climb up a bit and as you jump off, dash up-left and grab that strawberry. [iframe](https://www.youtube.com/embed/xWW-Ly9tDgQ?feature=oembed) ### Strawberry \\#6 ![Celeste Strawberry 6](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717173600-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) You may think that you just need to proceed through to the top right of this section. However to get another strawberry, make your way to the **bottom** right of the frame and dash into the wall to uncover a hidden area. ![Celeste Strawberry 7](https://i0.wp.co",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -115,14 +302,44 @@
       "room_name": "Start - Strawberry #6 (Hidden)",
       "difficulty": "hard",
       "objective": "Break through wall and navigate geared platform puzzle",
-      "mechanics_involved": ["dash_through_walls", "geared_platforms", "precise_timing"],
-      "hint_tiers": [
-        "Look for a breakable block in the lower right corner of the room with Strawberry #5",
-        "Dash through it to reveal a hidden area, then drop through the spikes carefully",
-        "Dash to the geared platform, ride it to the strawberry, then jump back and dash through the floor above to escape"
+      "mechanics_involved": [
+        "dash_through_walls",
+        "geared_platforms",
+        "precise_timing"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Look for a breakable block in the lower right corner of the room with Strawberry #5",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Dash through it to reveal a hidden area, then drop through the spikes carefully",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Dash to the geared platform, ride it to the strawberry, then jump back and dash through the floor above to escape",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "pikes and fall gracefully downward, using your dash to collect the strawberry and land safely. ### Strawberry \\#5 The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner. ### Strawberry \\#6 In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump off toward the strawberry. Catch a ride back and dash through the floor above to safely clear the room. ## Crossing ### Strawberry \\#7 This strawberry is in a room above the character Theo. To find Theo, go left from the room with a green crystal in the center. Jump and dash diagonally to the left to hit the green crystal in this new room and dash again to make it to safe ground. Climb up the wall on the left to find a hidden area. Watch out for the spring on the ground beneath the spikes! Hop over the hazard and use the second spring to launch toward the wall. Grab it and jump over the spikes toward the green crystal. Dash toward safety and the strawberry. Drop down the passage on the left to see Theo. ### Strawberry \\#8 Back in the room with the green crystal in the center (Reference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right o",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "[x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic light lifts. If you j",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": ". As you are airborne, move over to the left towards the floating platform and hang on to the right side of it for dear life. Climb up a bit and as you jump off, dash up-left and grab that strawberry. [iframe](https://www.youtube.com/embed/xWW-Ly9tDgQ?feature=oembed) ### Strawberry \\#6 ![Celeste Strawberry 6](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717173600-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) You may think that you just need to proceed through to the top right of this section. However to get another strawberry, make your way to the **bottom** right of the frame and dash into the wall to uncover a hidden area. ![Celeste Strawberry 7](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717173900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Once you enter, you’ll want to jump down and hang on to the wall on the left. Give yourself a bit of space to jump from it and hang on to the top-left side of the conveyor belt. As it moves, jump at the right time again and it will propel you over to the strawberry. To get back, just jump off to the left and dash up-left through the wooden platform in the middle of the frame. [iframe](https://www.youtube.com/embed/z_R9m6fT59M?feature=oembed) ### Strawberry \\#7 ![Celeste Strawberry 8](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717210800-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Now we’ll make our way to the previous frame and go up. We wi",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -130,14 +347,29 @@
       "room_name": "Start - Disappearing Platforms",
       "difficulty": "easy",
       "objective": "Learn disappearing platform mechanics",
-      "mechanics_involved": ["disappearing_platforms", "dash", "timing"],
-      "hint_tiers": [
-        "Disappearing platforms vanish shortly after you touch them",
-        "Move quickly but don't panic",
-        "You can dash mid-air to extend your reach if needed"
+      "mechanics_involved": [
+        "disappearing_platforms",
+        "dash",
+        "timing"
       ],
       "is_optional": false,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Disappearing platforms vanish shortly after you touch them",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Move quickly but don't panic",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "You can dash mid-air to extend your reach if needed",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -145,14 +377,28 @@
       "room_name": "Crossing - Theo Introduction",
       "difficulty": "easy",
       "objective": "Meet Theo and continue forward",
-      "mechanics_involved": ["dialogue", "navigation"],
-      "hint_tiers": [
-        "This is a story beat - take your time",
-        "Theo is another climber you'll meet throughout the game",
-        "Continue to the right after the conversation"
+      "mechanics_involved": [
+        "dialogue",
+        "navigation"
       ],
       "is_optional": false,
-      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+      "info": [
+        {
+          "instruction": "This is a story beat - take your time",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Theo is another climber you'll meet throughout the game",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Continue to the right after the conversation",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -160,14 +406,29 @@
       "room_name": "Crossing - Dash Crystal Introduction",
       "difficulty": "easy",
       "objective": "Learn to use dash crystals (refill orbs)",
-      "mechanics_involved": ["dash_crystals", "dash", "aerial_movement"],
-      "hint_tiers": [
-        "Green crystals restore your dash in mid-air",
-        "Touch the crystal to refill, then dash again immediately",
-        "These allow you to chain multiple dashes together"
+      "mechanics_involved": [
+        "dash_crystals",
+        "dash",
+        "aerial_movement"
       ],
       "is_optional": false,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Green crystals restore your dash in mid-air",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Touch the crystal to refill, then dash again immediately",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "These allow you to chain multiple dashes together",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -175,14 +436,45 @@
       "room_name": "Crossing - Strawberry #7 (Hidden Above Theo)",
       "difficulty": "hard",
       "objective": "Find hidden area above Theo and navigate spike gauntlet",
-      "mechanics_involved": ["dash_crystals", "spring", "wall_climb", "precise_timing"],
-      "hint_tiers": [
-        "From the room with a green crystal in the center, climb up the left wall to find a hidden passage",
-        "Watch out for the spring beneath spikes - hop over it carefully",
-        "Use the second spring to launch toward the wall, grab it, jump over spikes, and hit the green crystal to dash to safety"
+      "mechanics_involved": [
+        "dash_crystals",
+        "spring",
+        "wall_climb",
+        "precise_timing"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "From the room with a green crystal in the center, climb up the left wall to find a hidden passage",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Watch out for the spring beneath spikes - hop over it carefully",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Use the second spring to launch toward the wall, grab it, jump over spikes, and hit the green crystal to dash to safety",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "use the second spring to launch toward the wall. Grab it and jump over the spikes toward the green crystal. Dash toward safety and the strawberry. Drop down the passage on the left to see Theo. ### Strawberry \\#8 Back in the room with the green crystal in the center (Reference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right on safe ground. Instead of jumping up, dash through the brown rock to find a hidden strawberry. ### Strawberry \\#9 In the room with the two geared platforms (one that launches you to the right, the other upward), there is a secret passage that leads to the upper left corner. Using the upward geared platform, jump and dash into the small crevice next to the up arrow sign. This reveals the passage to the left corner. To clear this room, you need to overcome two geared platform obstacles. Wall jump to reach the top of the first, grab on to activate it and then quickly let go and dash over the spikes. Grab the second block and ride it all the way to the left. Climb in the small alcove above and let the platform pass beneath you. Climb onto the left side of the block and ride it back over. Wall jump your way out and go left. Dash through the air onto the only platforms until you reach the satellite where the strawberry is. ### Crystal Heart Stick around at the satellite to find Chapter 1’s Crystal Heart. The birds are the ke",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic light lifts. If you jump as it lifts up, they allow you to boost to locatio",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "018022717173600-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) You may think that you just need to proceed through to the top right of this section. However to get another strawberry, make your way to the **bottom** right of the frame and dash into the wall to uncover a hidden area. ![Celeste Strawberry 7](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717173900-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Once you enter, you’ll want to jump down and hang on to the wall on the left. Give yourself a bit of space to jump from it and hang on to the top-left side of the conveyor belt. As it moves, jump at the right time again and it will propel you over to the strawberry. To get back, just jump off to the left and dash up-left through the wooden platform in the middle of the frame. [iframe](https://www.youtube.com/embed/z_R9m6fT59M?feature=oembed) ### Strawberry \\#7 ![Celeste Strawberry 8](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717210800-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Now we’ll make our way to the previous frame and go up. We will then be presented with this screen… ![Celeste Strawberry 9](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717222200-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) First off, head through the left exit into a room with a dash diamond. These diamonds will allow you an extra dash in mid-air. So jump off the platform and dash up-left, fall onto th",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -190,14 +482,43 @@
       "room_name": "Crossing - Strawberry #8 (Hidden Wall)",
       "difficulty": "medium",
       "objective": "Break through hidden wall to find strawberry",
-      "mechanics_involved": ["dash_through_walls", "dash_crystals"],
-      "hint_tiers": [
-        "In the room with the green crystal in the center, go right instead of up",
-        "Dash above the crystal to fall on it and regain your dash",
-        "Instead of jumping up, dash through the brown rock on the right to reveal a hidden strawberry"
+      "mechanics_involved": [
+        "dash_through_walls",
+        "dash_crystals"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "In the room with the green crystal in the center, go right instead of up",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Dash above the crystal to fall on it and regain your dash",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Instead of jumping up, dash through the brown rock on the right to reveal a hidden strawberry",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "rea. Watch out for the spring on the ground beneath the spikes! Hop over the hazard and use the second spring to launch toward the wall. Grab it and jump over the spikes toward the green crystal. Dash toward safety and the strawberry. Drop down the passage on the left to see Theo. ### Strawberry \\#8 Back in the room with the green crystal in the center (Reference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right on safe ground. Instead of jumping up, dash through the brown rock to find a hidden strawberry. ### Strawberry \\#9 In the room with the two geared platforms (one that launches you to the right, the other upward), there is a secret passage that leads to the upper left corner. Using the upward geared platform, jump and dash into the small crevice next to the up arrow sign. This reveals the passage to the left corner. To clear this room, you need to overcome two geared platform obstacles. Wall jump to reach the top of the first, grab on to activate it and then quickly let go and dash over the spikes. Grab the second block and ride it all the way to the left. Climb in the small alcove above and let the platform pass beneath you. Climb onto the left side of the block and ride it back over. Wall jump your way out and go left. Dash through the air onto the only platforms until you reach the satellite where the strawberry is. ### Crystal Hea",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ot Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic light lifts. If you jump as it lifts up, they allow you to boost to locations you w",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "As it moves, jump at the right time again and it will propel you over to the strawberry. To get back, just jump off to the left and dash up-left through the wooden platform in the middle of the frame. [iframe](https://www.youtube.com/embed/z_R9m6fT59M?feature=oembed) ### Strawberry \\#7 ![Celeste Strawberry 8](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717210800-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Now we’ll make our way to the previous frame and go up. We will then be presented with this screen… ![Celeste Strawberry 9](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717222200-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) First off, head through the left exit into a room with a dash diamond. These diamonds will allow you an extra dash in mid-air. So jump off the platform and dash up-left, fall onto the diamond and dash again to safety. From here, you can go left and meet a main character, but to get the strawberry, we’ll want to go up. ![Celeste Strawberry 10](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717241300-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) As you proceed through this room, be mindful of the spring in front of you (it got me the first time). Jump over that and use the next spring to propel yourself upwards and veer off to the left a bit. Dash up-left over the spikes and collect the diamond, then dash up-left again onto the wooden plank. Now go grab that strawberr",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -205,14 +526,44 @@
       "room_name": "Crossing - Strawberry #9 (Geared Platforms)",
       "difficulty": "hard",
       "objective": "Find secret passage and navigate double geared platform puzzle",
-      "mechanics_involved": ["geared_platforms", "dash", "hidden_passage"],
-      "hint_tiers": [
-        "In the room with two geared platforms, use the upward platform to reach high",
-        "Jump and dash into the small crevice next to the up arrow sign - this reveals a passage",
-        "Navigate carefully through the geared platform gauntlet to reach the strawberry in the upper left"
+      "mechanics_involved": [
+        "geared_platforms",
+        "dash",
+        "hidden_passage"
       ],
       "is_optional": true,
-      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+      "info": [
+        {
+          "instruction": "In the room with two geared platforms, use the upward platform to reach high",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Jump and dash into the small crevice next to the up arrow sign - this reveals a passage",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Navigate carefully through the geared platform gauntlet to reach the strawberry in the upper left",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "ference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right on safe ground. Instead of jumping up, dash through the brown rock to find a hidden strawberry. ### Strawberry \\#9 In the room with the two geared platforms (one that launches you to the right, the other upward), there is a secret passage that leads to the upper left corner. Using the upward geared platform, jump and dash into the small crevice next to the up arrow sign. This reveals the passage to the left corner. To clear this room, you need to overcome two geared platform obstacles. Wall jump to reach the top of the first, grab on to activate it and then quickly let go and dash over the spikes. Grab the second block and ride it all the way to the left. Climb in the small alcove above and let the platform pass beneath you. Climb onto the left side of the block and ride it back over. Wall jump your way out and go left. Dash through the air onto the only platforms until you reach the satellite where the strawberry is. ### Crystal Heart Stick around at the satellite to find Chapter 1’s Crystal Heart. The birds are the key to this puzzle. After the computer beeps through a cycle, the birds strike a pose. Each color goes to the same spot. These locations are actually directions to dash in and the computer cycle is the order in which you need to dash. The solution is Up, Left, Down-Right,",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during normal level progression and not hidden in a side-room Start Strawberry 1 Strawberry 2 Strawberry 3 Strawberry 4 Strawberry 5 Strawberry 6 Checkpoint 1 Crossing Crystal Heart Strawberry 7 Strawberry 8 Strawberry 9 Strawberry 10 Strawberry 11 Strawberry 12 Strawberry 13 Strawberry 14 Strawberry 15 Checkpoint 2 Chasm Cassette Tape Strawberry 16 Strawberry 17 Strawberry 18 Strawberry 19 Strawberry 20 In Celeste, you have to touch the ground or complete a room to definitively collect the strawberries. So for clarification, in this guide sometimes I will say: 'Do [x] to grab the strawberry' and 'Do [x] to collect the strawberry' Grabbed Grabbing a strawberry will make it float near you. It is NOT collected and will return to it's original location if you die. Collected A strawberry will be collected once you touch the ground for a short amount of time. When you collect a strawberry it will disappear with a flash showing '1000' (like arcade points) and will also add to your strawberry total in the top left of the screen. Chapter Mechanics [Core] - Traffic-Light Lift ▔▔▔▔▔▔▔▔▔▔▔▔ [Other names: Conveyor-Belt Platforms, Zippers, Traffic Light Blocks] The core mechanic in chapter 1 is the traffic light lifts. If you jump as it lifts up, they allow you to boost to locations you wouldn't have",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "1280&ssl=1) Go back to the screen where we went left and make your way to the longer wooden platform on the bottom right of the screen. Dash into the wall to reveal another hidden area. Here is another strawberry! [iframe](https://www.youtube.com/embed/YPzArQUgUpY?feature=oembed) ### Strawberry \\#9 ![Celeste Strawberry 12](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717341400-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Make your way through the next screen (as there are no strawberries here) and then you’ll be in a room with two conveyor belt platforms. Now this part is tricky, so perhaps a little stretch before you attempt it may help… See that arrow above? Well that’s where you want to go. Jump onto the first platform and propel yourself to the next one, but try not to go too far right as when that platform goes up, it’ll squash you. As it propels you upwards, you want you’ll want to jump to the left, then dash up-left and grab onto the wall to climb up onto the wooden plank. Jump and dash over to the left-hand platform and proceed. This one requires you to be mindful of how long you hold onto the sides. Move forward and use the spring to propel yourself upwards and cling onto the right wall. Quickly move up and jump to the side of the conveyor platform. As it’s about fall down, kick off it back onto the right wall and cling onto it again. When the conveyor platform is down, jump left and over the top of the spikes to land safely on the",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -220,14 +571,69 @@
       "room_name": "Crossing - Crystal Heart",
       "difficulty": "hard",
       "objective": "Locate and collect the hidden Crystal Heart",
-      "mechanics_involved": ["hidden_secrets", "dash_crystals", "precise_platforming"],
-      "hint_tiers": [
-        "The Crystal Heart is hidden in the Crossing section",
-        "Look for unusual wall patterns or suspicious gaps",
-        "You'll need to chain multiple dash crystals to reach it - practice your aerial movement"
+      "mechanics_involved": [
+        "hidden_secrets",
+        "dash_crystals",
+        "precise_platforming"
       ],
       "is_optional": true,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide"
+      "info": [
+        {
+          "instruction": "The Crystal Heart is hidden in the Crossing section",
+          "source": "https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Look for unusual wall patterns or suspicious gaps",
+          "source": "https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "You'll need to chain multiple dash crystals to reach it - practice your aerial movement",
+          "source": "https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "Piano Only)_ | | | | --- | | **Forsaken City** [A-side](https://celeste.ink/wiki/1A) • [B-side](https://celeste.ink/wiki/1B) • [C-side](https://celeste.ink/wiki/1C) | Forsaken City's A-Side serves as an introductory level to much of how the game works. Madeline, controlled by the player, is introduced to combining jumping, dashing, and climbing to make it through various rooms while avoiding spikes and bottomless pits. Strawberries, [cassette tapes](https://celeste.ink/wiki/Cassette_tape), [crystal hearts](https://celeste.ink/wiki/Crystal_heart), dash-refilling crystals, and many other [entities](https://celeste.ink/wiki/Entities) are all introduced here. Three subchapters are present: Start, Crossing, and Chasm. #### Start \\[ [edit](https://celeste.ink/wiki/Forsaken_City?veaction=edit&section=4) \\| [edit source](https://celeste.ink/wiki/Forsaken_City?action=edit&section=4)\\] The beginning of the Start checkpoint introduces the player to several basic mechanics with dashes. The second room introduces [springs](https://celeste.ink/wiki/Springs) wall jumping, which occurs when Madeline jumps from one wall to another; it is the simplest way to climb without using [stamina](https://celeste.ink/wiki/Stamina). [Zippers](https://celeste.ink/wiki/Zippers), also known as traffic light blocks, first appear in the fourth room. Jumping too soon while the block is moving will result in Madeline being thrown into a wall of spikes; this is the player's first introduction to momentu",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ntroduces one character: [Theo](https://celestegame.fandom.com/wiki/Theo). ## Contents - [1**Gameplay**](https://celestegame.fandom.com/celestegame.fandom.com#Gameplay) - [1.1**Objects**](https://celestegame.fandom.com/celestegame.fandom.com#Objects) - [1.1.1Start](https://celestegame.fandom.com/celestegame.fandom.com#Start) - [1.1.2Crossing](https://celestegame.fandom.com/celestegame.fandom.com#Crossing) - [1.1.3Chasm](https://celestegame.fandom.com/celestegame.fandom.com#Chasm) - [1.2**Crystal Heart**](https://celestegame.fandom.com/celestegame.fandom.com#Crystal_Heart) - [1.3**Alternate Sides**](https://celestegame.fandom.com/celestegame.fandom.com#Alternate_Sides) - [1.3.1Start](https://celestegame.fandom.com/celestegame.fandom.com#Start_2) - [1.3.2Contraption](https://celestegame.fandom.com/celestegame.fandom.com#Contraption) - [1.3.3Scrap Pit](https://celestegame.fandom.com/celestegame.fandom.com#Scrap_Pit) - [1.3.4Forsaken City C-Side](https://celestegame.fandom.com/celestegame.fandom.com#Forsaken_City_C-Side) - [1.4**Winged Golden Strawberry**](https://celestegame.fandom.com/celestegame.fandom.com#Winged_Golden_Strawberry) - [2**Plot**](https://celestegame.fandom.com/celestegame.fandom.com#Plot) - [3**Speedrunning Record Progression**](https://celestegame.fandom.com/celestegame.fandom.com#Speedrunning_Record_Progression) - [4**Quotes**](https://celestegame.fandom.com/celestegame.fandom.com#Quotes) - [5**Gallery**](https://celestegame.fandom.com/celestegam",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ve can you get with your first free checklist? Create a free account # Chapter 1- Forsaken City Chapter 1 lays the ground work for all the platforming glory to come in Celeste. It teaches you the basics of maneuvering and maintaining enough stamina, wile using the environment to the best of your ability. It also happens to be a dense level, packed with collectibles and secret rooms. Below is a list of all 20 strawberries for this level, as well as the locations for the cassette tape and the Crystal Heart. ## Start ### Strawberry \\#1 The first strawberry is right out in the open on the second screen of the chapter. Use the spring to gain height and dash into the strawberry. Touch the ground to lock it in! ### Strawberry \\#2 On the screen immediately after the first strawberry is the second! Drop down from the platform above the fruit to grab it and dash into the wall to recover. Climb and wall jump back up to safety! ### Strawberry \\#3 This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it. ### Strawberry \\#4 The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to collect the strawberry a",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Celeste 101 ratings Chapter 1: Forsaken City - Complete Walkthrough [All Strawberries, Cassette Tape, and Crystal Heart] A GIF-guided walkthrough for collecting all strawberries, Cassette Tape, and Crystal Heart in 'Celeste - Chapter 1: Forsaken City' including video walkthrough and chapter map •⩊• Introduction ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ Hello ~ (・ω・)ﾉ This is a guide for all strawberries, Cassette Tape, and Crystal Heart in: 'Celeste: Chapter 1 - Forsaken City', Feel free to leave a comment, thumbs up, and check out my walkthrough video! - Abbilieve ♡ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ Chapter Overview Crystal Heart Checkpoint 1 Crossing Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is visible during norma",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "ntroduces one character: [Theo](https://celestegame.fandom.com/wiki/Theo). ## Contents - [1**Gameplay**](https://celestegame.fandom.com/celestegame.fandom.com#Gameplay) - [1.1**Objects**](https://celestegame.fandom.com/celestegame.fandom.com#Objects) - [1.1.1Start](https://celestegame.fandom.com/celestegame.fandom.com#Start) - [1.1.2Crossing](https://celestegame.fandom.com/celestegame.fandom.com#Crossing) - [1.1.3Chasm](https://celestegame.fandom.com/celestegame.fandom.com#Chasm) - [1.2**Crystal Heart**](https://celestegame.fandom.com/celestegame.fandom.com#Crystal_Heart) - [1.3**Alternate Sides**](https://celestegame.fandom.com/celestegame.fandom.com#Alternate_Sides) - [1.3.1Start](https://celestegame.fandom.com/celestegame.fandom.com#Start_2) - [1.3.2Contraption](https://celestegame.fandom.com/celestegame.fandom.com#Contraption) - [1.3.3Scrap Pit](https://celestegame.fandom.com/celestegame.fandom.com#Scrap_Pit) - [1.3.4Forsaken City C-Side](https://celestegame.fandom.com/celestegame.fandom.com#Forsaken_City_C-Side) - [1.4**Winged Golden Strawberry**](https://celestegame.fandom.com/celestegame.fandom.com#Winged_Golden_Strawberry) - [2**Plot**](https://celestegame.fandom.com/celestegame.fandom.com#Plot) - [3**Speedrunning Record Progression**](https://celestegame.fandom.com/celestegame.fandom.com#Speedrunning_Record_Progression) - [4**Quotes**](https://celestegame.fandom.com/celestegame.fandom.com#Quotes) - [5**Gallery**](https://celestegame.fandom.com/celestegam",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "starting area, 9 in the middle section, called the Crossing, and 5 in the final section - the Chasm. You can find these strawberries by looking at the maps provided, or by watching the Strawberry video. * * * [![Celeste Cassette.png](https://cdn.staticneo.com/ew/c/cf/Celeste_Cassette.png)](https://www.neoseeker.com/celeste/File:Celeste_Cassette.png) The location of the B-Side Cassette is found near the beginning of the Chasm section - the final section of the Forsaken City * * * [![Celeste Crystal Heart.png](https://cdn.staticneo.com/ew/thumb/4/44/Celeste_Crystal_Heart.png/130px-Celeste_Crystal_Heart.png)](https://www.neoseeker.com/celeste/File:Celeste_Crystal_Heart.png) The Crystal Heart for this section is hidden near the Satellite in the second section. You have to watch the color pattern being broadcast over the satellite. There are birds flying around nearby, and they fly out in various directions. You need to dash in the direction of the color of birds, following the color pattern broadcast by the Satellite. When you dash in the proper six directions the heart will be revealed. * * * [![Celeste Theo Forsaken City.jpg](https://cdn.staticneo.com/ew/0/06/Celeste_Theo_Forsaken_City.jpg)](https://www.neoseeker.com/celeste/File:Celeste_Theo_Forsaken_City.jpg) This is not really a collectible, but I'll list it here anyways. You have your first opportunity to meet Theo during the Crossing. This is an optional conversation that will introduce a character who will be pivot",
+          "source": "https://www.neoseeker.com/celeste/walkthrough/Level_1_-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "y up onto a wooden platform. Make your way up to the top left of the screen, and proceed to the next frame. ![Celeste Strawberry 13](https://i2.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717423300-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Jump and dash from one platform to another and make your way to the strawberry next to the computer. And watch the pretty birds (ooh, pretty!). Actually, you really do need to watch the pretty birds, as this is how to get this chapter’s Crystal Heart. We’ll have our full Crystal Heart guide up very soon. [iframe](https://www.youtube.com/embed/gS9NjlMTi5Q?feature=oembed) ### Strawberry \\#10 ![Celeste Strawberry 14](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717461000-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Go back the way you came and in the next frame, go up and over just to drop down as the crumbling bricks fall. Now that you’re back, jump into the hidden area that we found before (just above where the sign was), make your way up and through to the next frame. Now if you look closely at this one, you can see that there is a crumbly wall in the top-left hand corner of the frame (all those years of playing Zelda has finally paid off!). Jump onto the spring and dash onto the platform. Dash into the wall and reveal another hidden area. ![Celeste Strawberry 15](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022717474400-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        },
+        {
+          "instruction": "chievements.com/images/icons/storyadd.png) #### **Tutorial** Start the game, with assist mode on, and play through the first scene until you learn to dash. You can skip cutscenes by pausing the game and selecting skip scene, however I recommend to follow along with the story. [![CH1](https://www.trueachievements.com/customimages/l/111015.jpg)](https://www.trueachievements.com/customimages/111015.jpg) #### **Chapter** **1 - Forsaken City** Collectibles - 20 Strawberries - 1 Hidden Tape - 1 Crystal Heart At the start of the level, pause the game and go to Assist Options. - Infinite Stamina - On - Air Dashes - Infinite - Invincibility - On Now you can basically fly with air dashes and not die. - Go up one screen - Grab the Strawberry by dashing straight up with ![cn_B](https://www.trueachievements.com/images/controllerbuttons/Xbox%20One/cn_B.png) or ![cn_X](https://www.trueachievements.com/images/controllerbuttons/Xbox%20One/cn_X.png)**(1/20 Strawberries)** - Go up one screen - Grab the Strawberry above the spikes in the right corner **(2/20 Strawberries)** - Go up two screens - Don't use dash here or the Strawberry may fly away. Use the platforms, grab the wall with ![cn_RT](https://www.trueachievements.com/images/controllerbuttons/Xbox%20One/cn_RT.png) and jump up. After contact you must land to collect it. **(3/20 Strawberries)** If it gets away, turn off invincibility and kill yourself until you collect it. Turn it back on when you are done. - Go up one screen - Go",
+          "source": "https://www.trueachievements.com/game/Celeste/walkthrough/3",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -235,14 +641,29 @@
       "room_name": "Chasm - Falling Platforms Introduction",
       "difficulty": "medium",
       "objective": "Learn falling platform mechanics",
-      "mechanics_involved": ["falling_platforms", "dash", "timing"],
-      "hint_tiers": [
-        "Falling platforms shake before dropping - move quickly",
-        "You can dash to safety if you react fast enough",
-        "Some platforms fall faster than others - watch for visual cues"
+      "mechanics_involved": [
+        "falling_platforms",
+        "dash",
+        "timing"
       ],
       "is_optional": false,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+      "info": [
+        {
+          "instruction": "Falling platforms shake before dropping - move quickly",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "You can dash to safety if you react fast enough",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Some platforms fall faster than others - watch for visual cues",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -250,14 +671,69 @@
       "room_name": "Chasm - B-Side Cassette Tape",
       "difficulty": "hard",
       "objective": "Collect the B-Side cassette tape",
-      "mechanics_involved": ["cassette_blocks", "dash_crystals", "rhythm_timing"],
-      "hint_tiers": [
-        "The cassette is located in the Chasm section surrounded by cassette blocks",
-        "Cassette blocks alternate between solid and intangible in rhythm with the music",
-        "Time your movements to the beat - blue blocks are solid when the beat hits"
+      "mechanics_involved": [
+        "cassette_blocks",
+        "dash_crystals",
+        "rhythm_timing"
       ],
       "is_optional": true,
-      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+      "info": [
+        {
+          "instruction": "The cassette is located in the Chasm section surrounded by cassette blocks",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Cassette blocks alternate between solid and intangible in rhythm with the music",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Time your movements to the beat - blue blocks are solid when the beat hits",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": 3
+        },
+        {
+          "instruction": "te.ink/wiki/Madeline%27s_Grab_Bag): _09 • First Steps (Piano Only)_ | | | | --- | | **Forsaken City** [A-side](https://celeste.ink/wiki/1A) • [B-side](https://celeste.ink/wiki/1B) • [C-side](https://celeste.ink/wiki/1C) | Forsaken City's A-Side serves as an introductory level to much of how the game works. Madeline, controlled by the player, is introduced to combining jumping, dashing, and climbing to make it through various rooms while avoiding spikes and bottomless pits. Strawberries, [cassette tapes](https://celeste.ink/wiki/Cassette_tape), [crystal hearts](https://celeste.ink/wiki/Crystal_heart), dash-refilling crystals, and many other [entities](https://celeste.ink/wiki/Entities) are all introduced here. Three subchapters are present: Start, Crossing, and Chasm. #### Start \\[ [edit](https://celeste.ink/wiki/Forsaken_City?veaction=edit&section=4) \\| [edit source](https://celeste.ink/wiki/Forsaken_City?action=edit&section=4)\\] The beginning of the Start checkpoint introduces the player to several basic mechanics with dashes. The second room introduces [springs](https://celeste.ink/wiki/Springs) wall jumping, which occurs when Madeline jumps from one wall to another; it is the simplest way to climb without using [stamina](https://celeste.ink/wiki/Stamina). [Zippers](https://celeste.ink/wiki/Zippers), also known as traffic light blocks, first appear in the fourth room. Jumping too soon while the block is moving will result in Madeline being thrown into a wall of",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "//celestegame.fandom.com/wiki/Disappearing_Platforms) - [Smashable Walls](https://celestegame.fandom.com/wiki/Smashable_Walls) #### [Crossing](https://celestegame.fandom.com/wiki/Crossing)\\[\\] - Spikes - [Dash Crystals](https://celestegame.fandom.com/wiki/Dash_Crystals) - Smashable Walls - Springs - Disappearing Platforms - Traffic Light Blocks - [Falling Platforms](https://celestegame.fandom.com/wiki/Falling_Platforms) #### [Chasm](https://celestegame.fandom.com/wiki/Chasm)\\[\\] The [B-Side Cassette Tape](https://celestegame.fandom.com/wiki/Cassette_Guide) for the chapter is located here. - Traffic Light Blocks - Spikes - Disappearing Platforms - Springs - [Cassette Blocks](https://celestegame.fandom.com/wiki/Cassette_Blocks) - Dash Crystals - Falling Platforms ### **Crystal Heart**\\[\\] _Main article: [Crystal Hearts Guide](https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide#Chapter_1)_ The crystal heart is located in the second sub-chapter, Crossing. ### **Alternate Sides**\\[\\] The B-Side includes three parts: [Start](https://celestegame.fandom.com/wiki/Start_(Forsaken_City_B-Side)), [Contraption](https://celestegame.fandom.com/wiki/Contraption), and [Scrap Pit](https://celestegame.fandom.com/wiki/Scrap_Pit). [Skull Binoculars](https://celestegame.fandom.com/wiki/Skull_Binoculars), which are not found in the A-Side of Chapter 1, can be found in the B-Side and C-Side. #### [Start](https://celestegame.fandom.com/wiki/Start_(Forsaken_City_B-Side))\\[\\] - [Spikes",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Checklists How creative can you get with your first free checklist? Create a free account # Chapter 1- Forsaken City Chapter 1 lays the ground work for all the platforming glory to come in Celeste. It teaches you the basics of maneuvering and maintaining enough stamina, wile using the environment to the best of your ability. It also happens to be a dense level, packed with collectibles and secret rooms. Below is a list of all 20 strawberries for this level, as well as the locations for the cassette tape and the Crystal Heart. ## Start ### Strawberry \\#1 The first strawberry is right out in the open on the second screen of the chapter. Use the spring to gain height and dash into the strawberry. Touch the ground to lock it in! ### Strawberry \\#2 On the screen immediately after the first strawberry is the second! Drop down from the platform above the fruit to grab it and dash into the wall to recover. Climb and wall jump back up to safety! ### Strawberry \\#3 This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it. ### Strawberry \\#4 The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to co",
+          "source": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "Celeste 101 ratings Chapter 1: Forsaken City - Complete Walkthrough [All Strawberries, Cassette Tape, and Crystal Heart] A GIF-guided walkthrough for collecting all strawberries, Cassette Tape, and Crystal Heart in 'Celeste - Chapter 1: Forsaken City' including video walkthrough and chapter map •⩊• Introduction ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ Hello ~ (・ω・)ﾉ This is a guide for all strawberries, Cassette Tape, and Crystal Heart in: 'Celeste: Chapter 1 - Forsaken City', Feel free to leave a comment, thumbs up, and check out my walkthrough video! - Abbilieve ♡ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋ ‧₊ ˚ ⊹ ࣭ ⭑ . ₊ Chapter Overview Crystal Heart Checkpoint 1 Crossing Strawberries [x20] Missable 4, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 19, 20 Not Missable* 1, 2, 3, 5, 14, 15, 18 Cassette Tape Checkpoint 2 Chasm *Is v",
+          "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136",
+          "hint_tier": null
+        },
+        {
+          "instruction": "//celestegame.fandom.com/wiki/Disappearing_Platforms) - [Smashable Walls](https://celestegame.fandom.com/wiki/Smashable_Walls) #### [Crossing](https://celestegame.fandom.com/wiki/Crossing)\\[\\] - Spikes - [Dash Crystals](https://celestegame.fandom.com/wiki/Dash_Crystals) - Smashable Walls - Springs - Disappearing Platforms - Traffic Light Blocks - [Falling Platforms](https://celestegame.fandom.com/wiki/Falling_Platforms) #### [Chasm](https://celestegame.fandom.com/wiki/Chasm)\\[\\] The [B-Side Cassette Tape](https://celestegame.fandom.com/wiki/Cassette_Guide) for the chapter is located here. - Traffic Light Blocks - Spikes - Disappearing Platforms - Springs - [Cassette Blocks](https://celestegame.fandom.com/wiki/Cassette_Blocks) - Dash Crystals - Falling Platforms ### **Crystal Heart**\\[\\] _Main article: [Crystal Hearts Guide](https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide#Chapter_1)_ The crystal heart is located in the second sub-chapter, Crossing. ### **Alternate Sides**\\[\\] The B-Side includes three parts: [Start](https://celestegame.fandom.com/wiki/Start_(Forsaken_City_B-Side)), [Contraption](https://celestegame.fandom.com/wiki/Contraption), and [Scrap Pit](https://celestegame.fandom.com/wiki/Scrap_Pit). [Skull Binoculars](https://celestegame.fandom.com/wiki/Skull_Binoculars), which are not found in the A-Side of Chapter 1, can be found in the B-Side and C-Side. #### [Start](https://celestegame.fandom.com/wiki/Start_(Forsaken_City_B-Side))\\[\\] - [Spikes",
+          "source": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "s, and ceilings. Collectibles in the Forsaken City [![Celeste Strawberry.png](https://cdn.staticneo.com/ew/2/2b/Celeste_Strawberry.png)](https://www.neoseeker.com/celeste/File:Celeste_Strawberry.png) There are 20 Strawberries hidden in the Forsaken City. There are six in the starting area, 9 in the middle section, called the Crossing, and 5 in the final section - the Chasm. You can find these strawberries by looking at the maps provided, or by watching the Strawberry video. * * * [![Celeste Cassette.png](https://cdn.staticneo.com/ew/c/cf/Celeste_Cassette.png)](https://www.neoseeker.com/celeste/File:Celeste_Cassette.png) The location of the B-Side Cassette is found near the beginning of the Chasm section - the final section of the Forsaken City * * * [![Celeste Crystal Heart.png](https://cdn.staticneo.com/ew/thumb/4/44/Celeste_Crystal_Heart.png/130px-Celeste_Crystal_Heart.png)](https://www.neoseeker.com/celeste/File:Celeste_Crystal_Heart.png) The Crystal Heart for this section is hidden near the Satellite in the second section. You have to watch the color pattern being broadcast over the satellite. There are birds flying around nearby, and they fly out in various directions. You need to dash in the direction of the color of birds, following the color pattern broadcast by the Satellite. When you dash in the proper six directions the heart will be revealed. * * * [![Celeste Theo Forsaken City.jpg](https://cdn.staticneo.com/ew/0/06/Celeste_Theo_Forsaken_City.jpg)](https:/",
+          "source": "https://www.neoseeker.com/celeste/walkthrough/Level_1_-_Forsaken_City",
+          "hint_tier": null
+        },
+        {
+          "instruction": "4411.jpg?w=1280&ssl=1) In this part, jump onto the middle of the conveyor platform and at the last second, jump and let it project you upwards through the spikes and then dash that last bit. Make your way to the left and up to the next frame. To get that strawberry, you’ll need to jump up, dash, and cling onto the side of the platform conveyor belt. But before making your way to that strawberry, there is ANOTHER hidden area that is revealed behind the conveyor platform that has this chapter’s B-Side Tape. For info on how to get that, we’ll have our guide up on B-Side Tapes very soon. ![Celeste Strawberry 21](https://i1.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022718272500-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Now, back to the strawberry! Jump, dash, and cling onto the conveyor platforform and jump off at the last second so that it flings you aaallllllll the way over to the other side. [iframe](https://www.youtube.com/embed/Pth-caAuurE?feature=oembed) ### Strawberry \\#17 ![Celeste Strawberry 22](https://i0.wp.com/switchaboo.com/wp-content/uploads/2018/02/2018022718340400-75A32021BE3512D7AA96B2D72F764411.jpg?w=1280&ssl=1) Now jump down to the previous frame, but we’re not finished with this side part yet. Make your way past the conveyor platform and go through to the left side of the screen. Jump and dash to the left onto the spring button. As that shoots you up, make your way to the left a bit and then dash again up through the plank and to saf",
+          "source": "https://www.switchaboo.com/celeste-100-strawberry-guide/",
+          "hint_tier": null
+        },
+        {
+          "instruction": "b the Strawberry next to the spikes **(16/20 Strawberries)** - Grab the contraption to the left so it moves, then quickly get behind it and go up one screen. - Go up one screen - Grab the contraption above you, get behind it and walk off screen to the left. [![PIC 4](https://www.trueachievements.com/customimages/l/110987.jpg)](https://www.trueachievements.com/customimages/110987.jpg) - Grab the **Hidden Tape** [Gateway](https://www.trueachievements.com/a246713/gateway-achievement) Collect a Cassette ![Gateway](https://www.trueachievements.com/imagestore/l/0006945100/6945154.jpg) [2 guides](https://www.trueachievements.com/a246713/gateway-achievement?showguides=1)![Offline Mode - These achievements require play in game modes that do not necessitate a connection to any online services.](https://www.trueachievements.com/sprites/flags/offline-gamemode-lg.png)![Single Player - These achievements can be obtained by a single player.](https://www.trueachievements.com/sprites/flags/single-player-lg.png)![Collectable - These achievements are obtained by exploring the game environment to find a set of unique objects.](https://www.trueachievements.com/sprites/flags/collectable-lg.png) - That tape unlocked the \"B Side\" of this chapter. Go right one screen and grab the contraption to be able to move. - Grab the Strawberry **(17/20 Strawberries)** - Go down one screen - Go left, past the contraption, and go left two screens - Grab the Strawberry **(18/20 Strawberries)** - Go right tw",
+          "source": "https://www.trueachievements.com/game/Celeste/walkthrough/3",
+          "hint_tier": null
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -265,14 +741,30 @@
       "room_name": "Chasm - Final Gauntlet",
       "difficulty": "medium",
       "objective": "Navigate final section with all mechanics combined",
-      "mechanics_involved": ["traffic_light_blocks", "dash_crystals", "spikes", "falling_platforms"],
-      "hint_tiers": [
-        "This section combines everything you've learned",
-        "Take it slow and plan each dash before using it",
-        "Remember that dash crystals refill your dash - use them strategically"
+      "mechanics_involved": [
+        "traffic_light_blocks",
+        "dash_crystals",
+        "spikes",
+        "falling_platforms"
       ],
       "is_optional": false,
-      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+      "info": [
+        {
+          "instruction": "This section combines everything you've learned",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Take it slow and plan each dash before using it",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Remember that dash crystals refill your dash - use them strategically",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -280,14 +772,29 @@
       "room_name": "Chasm - Summit Approach",
       "difficulty": "easy",
       "objective": "Reach the chapter end goal",
-      "mechanics_involved": ["dash", "jump", "wall_climb"],
-      "hint_tiers": [
-        "You're almost there! The end is in sight",
-        "Use all your skills to climb the final section",
-        "Touch the heart symbol to complete the chapter"
+      "mechanics_involved": [
+        "dash",
+        "jump",
+        "wall_climb"
       ],
       "is_optional": false,
-      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+      "info": [
+        {
+          "instruction": "You're almost there! The end is in sight",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "Use all your skills to climb the final section",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Touch the heart symbol to complete the chapter",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     },
     {
       "level_id": "1",
@@ -296,13 +803,24 @@
       "difficulty": "N/A",
       "objective": "Finish Chapter 1",
       "mechanics_involved": [],
-      "hint_tiers": [
-        "Congratulations on completing Forsaken City!",
-        "You've learned the core mechanics that will carry you through the rest of the game",
-        "Consider going back for strawberries you missed, or try the B-Side for a greater challenge!"
-      ],
       "is_optional": false,
-      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+      "info": [
+        {
+          "instruction": "Congratulations on completing Forsaken City!",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 1
+        },
+        {
+          "instruction": "You've learned the core mechanics that will carry you through the rest of the game",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 2
+        },
+        {
+          "instruction": "Consider going back for strawberries you missed, or try the B-Side for a greater challenge!",
+          "source": "https://celeste.ink/wiki/Forsaken_City",
+          "hint_tier": 3
+        }
+      ]
     }
   ],
   "collectibles": {
