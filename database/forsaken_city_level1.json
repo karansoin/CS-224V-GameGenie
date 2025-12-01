@@ -1,0 +1,352 @@
+{
+  "chapter": "1",
+  "chapter_name": "Forsaken_City",
+  "side": "A",
+  "total_strawberries": 20,
+  "rooms": [
+    {
+      "level_id": "1",
+      "room_id": "1",
+      "room_name": "Start - First Platform",
+      "difficulty": "beginner",
+      "objective": "Learn basic dash mechanics and reach the spring",
+      "mechanics_involved": ["dash", "jump", "wall_climb"],
+      "hint_tiers": [
+        "Press the dash button while moving in any direction to dash",
+        "You can dash in 8 directions (up, down, left, right, and diagonals)",
+        "Use the spring to bounce upward - time your jump as you hit it for extra height"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "2",
+      "room_name": "Start - Strawberry #1",
+      "difficulty": "easy",
+      "objective": "Collect the first strawberry using spring and dash",
+      "mechanics_involved": ["spring", "dash", "jump"],
+      "hint_tiers": [
+        "Use the spring to gain height",
+        "Dash into the strawberry while airborne",
+        "Touch the ground after collecting to lock in the strawberry"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "3",
+      "room_name": "Start - Strawberry #2",
+      "difficulty": "easy",
+      "objective": "Drop down to collect strawberry and recover to wall",
+      "mechanics_involved": ["drop", "dash", "wall_climb", "wall_jump"],
+      "hint_tiers": [
+        "Drop down from the platform above the strawberry",
+        "Dash into the wall immediately after grabbing it",
+        "Use wall climb and wall jump to get back to safety"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "4",
+      "room_name": "Start - Winged Strawberry #3",
+      "difficulty": "medium",
+      "objective": "Collect flying strawberry without using dash",
+      "mechanics_involved": ["jump", "platforming", "winged_strawberry"],
+      "hint_tiers": [
+        "This is a winged strawberry - dashing will scare it away",
+        "Use the platforms on the right side to get above it",
+        "Drop down carefully without dashing to collect it"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "5",
+      "room_name": "Start - Traffic Light Introduction",
+      "difficulty": "easy",
+      "objective": "Navigate through traffic light blocks",
+      "mechanics_involved": ["traffic_light_blocks", "dash", "jump"],
+      "hint_tiers": [
+        "Traffic light blocks (green/red) toggle when you dash",
+        "Green blocks are solid, red blocks let you pass through",
+        "Plan your dashes to make a safe path through"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "6",
+      "room_name": "Start - Strawberry #4",
+      "difficulty": "medium",
+      "objective": "Use spring to navigate spikes and collect strawberry",
+      "mechanics_involved": ["spring", "dash", "wall_climb", "spike_navigation"],
+      "hint_tiers": [
+        "Jump and dash upward to reach the middle landing - grab the wall if needed",
+        "Use the spring to hop over the spikes",
+        "Fall downward and use your dash to collect the strawberry and land safely"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "7",
+      "room_name": "Start - Strawberry #5",
+      "difficulty": "medium",
+      "objective": "Use traffic light lift to collect strawberry",
+      "mechanics_involved": ["traffic_light_blocks", "dash", "aerial_movement"],
+      "hint_tiers": [
+        "Stand on the traffic light lift on the right",
+        "When it flings you up, dash diagonally to the upper left",
+        "Grab the strawberry in the upper left corner"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "8",
+      "room_name": "Start - Strawberry #6 (Hidden)",
+      "difficulty": "hard",
+      "objective": "Break through wall and navigate geared platform puzzle",
+      "mechanics_involved": ["dash_through_walls", "geared_platforms", "precise_timing"],
+      "hint_tiers": [
+        "Look for a breakable block in the lower right corner of the room with Strawberry #5",
+        "Dash through it to reveal a hidden area, then drop through the spikes carefully",
+        "Dash to the geared platform, ride it to the strawberry, then jump back and dash through the floor above to escape"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "9",
+      "room_name": "Start - Disappearing Platforms",
+      "difficulty": "easy",
+      "objective": "Learn disappearing platform mechanics",
+      "mechanics_involved": ["disappearing_platforms", "dash", "timing"],
+      "hint_tiers": [
+        "Disappearing platforms vanish shortly after you touch them",
+        "Move quickly but don't panic",
+        "You can dash mid-air to extend your reach if needed"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "10",
+      "room_name": "Crossing - Theo Introduction",
+      "difficulty": "easy",
+      "objective": "Meet Theo and continue forward",
+      "mechanics_involved": ["dialogue", "navigation"],
+      "hint_tiers": [
+        "This is a story beat - take your time",
+        "Theo is another climber you'll meet throughout the game",
+        "Continue to the right after the conversation"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "11",
+      "room_name": "Crossing - Dash Crystal Introduction",
+      "difficulty": "easy",
+      "objective": "Learn to use dash crystals (refill orbs)",
+      "mechanics_involved": ["dash_crystals", "dash", "aerial_movement"],
+      "hint_tiers": [
+        "Green crystals restore your dash in mid-air",
+        "Touch the crystal to refill, then dash again immediately",
+        "These allow you to chain multiple dashes together"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "12",
+      "room_name": "Crossing - Strawberry #7 (Hidden Above Theo)",
+      "difficulty": "hard",
+      "objective": "Find hidden area above Theo and navigate spike gauntlet",
+      "mechanics_involved": ["dash_crystals", "spring", "wall_climb", "precise_timing"],
+      "hint_tiers": [
+        "From the room with a green crystal in the center, climb up the left wall to find a hidden passage",
+        "Watch out for the spring beneath spikes - hop over it carefully",
+        "Use the second spring to launch toward the wall, grab it, jump over spikes, and hit the green crystal to dash to safety"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "13",
+      "room_name": "Crossing - Strawberry #8 (Hidden Wall)",
+      "difficulty": "medium",
+      "objective": "Break through hidden wall to find strawberry",
+      "mechanics_involved": ["dash_through_walls", "dash_crystals"],
+      "hint_tiers": [
+        "In the room with the green crystal in the center, go right instead of up",
+        "Dash above the crystal to fall on it and regain your dash",
+        "Instead of jumping up, dash through the brown rock on the right to reveal a hidden strawberry"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "14",
+      "room_name": "Crossing - Strawberry #9 (Geared Platforms)",
+      "difficulty": "hard",
+      "objective": "Find secret passage and navigate double geared platform puzzle",
+      "mechanics_involved": ["geared_platforms", "dash", "hidden_passage"],
+      "hint_tiers": [
+        "In the room with two geared platforms, use the upward platform to reach high",
+        "Jump and dash into the small crevice next to the up arrow sign - this reveals a passage",
+        "Navigate carefully through the geared platform gauntlet to reach the strawberry in the upper left"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "15",
+      "room_name": "Crossing - Crystal Heart",
+      "difficulty": "hard",
+      "objective": "Locate and collect the hidden Crystal Heart",
+      "mechanics_involved": ["hidden_secrets", "dash_crystals", "precise_platforming"],
+      "hint_tiers": [
+        "The Crystal Heart is hidden in the Crossing section",
+        "Look for unusual wall patterns or suspicious gaps",
+        "You'll need to chain multiple dash crystals to reach it - practice your aerial movement"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Crystal_Hearts_Guide"
+    },
+    {
+      "level_id": "1",
+      "room_id": "16",
+      "room_name": "Chasm - Falling Platforms Introduction",
+      "difficulty": "medium",
+      "objective": "Learn falling platform mechanics",
+      "mechanics_involved": ["falling_platforms", "dash", "timing"],
+      "hint_tiers": [
+        "Falling platforms shake before dropping - move quickly",
+        "You can dash to safety if you react fast enough",
+        "Some platforms fall faster than others - watch for visual cues"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "17",
+      "room_name": "Chasm - B-Side Cassette Tape",
+      "difficulty": "hard",
+      "objective": "Collect the B-Side cassette tape",
+      "mechanics_involved": ["cassette_blocks", "dash_crystals", "rhythm_timing"],
+      "hint_tiers": [
+        "The cassette is located in the Chasm section surrounded by cassette blocks",
+        "Cassette blocks alternate between solid and intangible in rhythm with the music",
+        "Time your movements to the beat - blue blocks are solid when the beat hits"
+      ],
+      "is_optional": true,
+      "provenance_url": "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "18",
+      "room_name": "Chasm - Final Gauntlet",
+      "difficulty": "medium",
+      "objective": "Navigate final section with all mechanics combined",
+      "mechanics_involved": ["traffic_light_blocks", "dash_crystals", "spikes", "falling_platforms"],
+      "hint_tiers": [
+        "This section combines everything you've learned",
+        "Take it slow and plan each dash before using it",
+        "Remember that dash crystals refill your dash - use them strategically"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "19",
+      "room_name": "Chasm - Summit Approach",
+      "difficulty": "easy",
+      "objective": "Reach the chapter end goal",
+      "mechanics_involved": ["dash", "jump", "wall_climb"],
+      "hint_tiers": [
+        "You're almost there! The end is in sight",
+        "Use all your skills to climb the final section",
+        "Touch the heart symbol to complete the chapter"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+    },
+    {
+      "level_id": "1",
+      "room_id": "20",
+      "room_name": "Complete Chapter",
+      "difficulty": "N/A",
+      "objective": "Finish Chapter 1",
+      "mechanics_involved": [],
+      "hint_tiers": [
+        "Congratulations on completing Forsaken City!",
+        "You've learned the core mechanics that will carry you through the rest of the game",
+        "Consider going back for strawberries you missed, or try the B-Side for a greater challenge!"
+      ],
+      "is_optional": false,
+      "provenance_url": "https://celeste.ink/wiki/Forsaken_City"
+    }
+  ],
+  "collectibles": {
+    "strawberries": {
+      "total": 20,
+      "regular": 17,
+      "winged": 3
+    },
+    "crystal_heart": {
+      "location": "Crossing section",
+      "difficulty": "hard"
+    },
+    "cassette_tape": {
+      "location": "Chasm section",
+      "unlocks": "B-Side"
+    }
+  },
+  "mechanics_introduced": [
+    "octadirectional_dash",
+    "wall_climb",
+    "wall_jump",
+    "dash_crystals",
+    "traffic_light_blocks",
+    "disappearing_platforms",
+    "springs",
+    "falling_platforms",
+    "cassette_blocks",
+    "spikes",
+    "smashable_walls",
+    "geared_platforms",
+    "winged_strawberries"
+  ],
+  "characters": [
+    "Madeline",
+    "Theo",
+    "Bird"
+  ],
+  "metadata": {
+    "created_from_sources": [
+      "https://celeste.ink/wiki/Forsaken_City",
+      "https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City",
+      "https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City"
+    ],
+    "last_updated": "2025-01-29",
+    "version": "1.0"
+  }
+}
