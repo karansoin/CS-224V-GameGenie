@@ -1,0 +1,493 @@
+{
+  "chapter": "1",
+  "chapter_name": "Forsaken_City",
+  "total_collectibles": 22,
+  "collectibles": [
+    {
+      "collectible_id": "strawberry_1",
+      "collectible_type": "strawberry",
+      "collectible_number": 1,
+      "hidden": false,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Not Missable] After the prologue - when you first start the level, head upwards to the next room and you will see strawberry 1. Jump onto the spring pad and dash towards the strawberry to grab it, making sure to touch the ground to collect the berry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "The first strawberry is right out in the open on the second screen of the chapter. Use the spring to gain height and dash into the strawberry. Touch the ground to lock it in!",
+          "source": "IGN"
+        },
+        {
+          "instruction": "For this first strawberry, jump onto the spring button. Once you are airborne, veer off to the left so that you are directly underneath the strawberry and then dash upwards. This one may seem easy, but trust me, they get harder.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in the second room of the subchapter, this is likely the simplest Strawberry you'll get. Bounce off the spring in this room and you can move slightly left and dash directly upward to collect it.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_2",
+      "collectible_type": "strawberry",
+      "collectible_number": 2,
+      "hidden": false,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Not Missable] Head upwards into the next room from strawberry 1 and you will see strawberry 2. Drop down from the floating platform left of the strawberry to grab it, then dash upwards to climb back up and collect the berry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "On the screen immediately after the first strawberry is the second! Drop down from the platform above the fruit to grab it and dash into the wall to recover. Climb and wall jump back up to safety!",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Make your way over to the right side of the screen. Drop down, and without using your dash, hold ZR and grab onto the lower part of the right wall. When you’re ready, kick off from the wall, grab the strawberry and then use your boost to grab onto the wall that is parallel to the one that you just jumped from. Make your way back up by jumping from one side to the other until you are back up on the flat surface that you initially jumped off of.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in the third room of the subchapter, you can find this Strawberry at the end of the room hovering above some spikes. Run off the platform near it and dash directly upward as soon as you touch the berry, then move to the right and climb up the wall for the safest grab.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_3",
+      "collectible_type": "strawberry",
+      "collectible_number": 3,
+      "hidden": false,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Not Missable] Progress through the level until you come across a flying strawberry - strawberry 3. DON'T DASH as this will cause the strawberry to fly away and you'll have to retry. Jump onto the crumbling platforms then jump down to grab the strawberry, dashing upwards to land back on the platform and collect it.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "This strawberry is the first flying strawberry you see. You cannot dash on this screen or you’ll scare it away. Use the platforms on the right to get above the flying fruit and drop down to collect it.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "In the next room, if you notice the sign that has an up arrow with a line through it, that means that if you try to jump and dash toward the strawberry from below, then it’s going to fly away (who knew strawberries could fly…). Instead, you have to make your way to the right of screen and jump from those platforms. But look out, they’ll crumble if you’re not quick enough. You don’t have to use the highest crumbling platform, and instead just jump from the second highest platform and cling onto the wall of the floating island in the middle and climb up. From there, make your way to the other side, drop down and collect your strawberry.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in the fifth room of the subchapter, this is the first Winged Strawberry of the game. Instead of rushing through this room, you can get to the top without needing to dash with simple jumps and climbing the wall from the right, then walking off the platform.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_4",
+      "collectible_type": "strawberry",
+      "collectible_number": 4,
+      "hidden": false,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Missable] In the room above the flying strawberry, head left towards the glow to find strawberry 4. Once inside the strawberry room: Head towards the platform in the middle of the screen covered in snow, dashing up onto the spring pad over the spikes, then dashing right to collect the strawberry. To exit and continue: Exit the strawberry room the way you entered - to the right.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "The screen above the flying strawberry, go to the room on the left with the glowing light first. Jump and dash upward to make it to the landing in the middle. You can grab the wall if you need to climb up. Using the spring, hop over the spikes and fall gracefully downward, using your dash to collect the strawberry and land safely.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "When you proceed upwards, take a left and you’ll enter a side room with another strawberry. In this frame, make your way to the middle section and jump up to the first step. From there, jump and grab onto the wall on the right and then kick off and dash upwards to land on the wooden platform. Then, jump onto the spring and maneuver your way over the spikes and fall between the other spikes through that narrow gap. Be careful when you fall, because if you keep falling, you’re going to land on the spikes down the bottom. What you want to do is use your dash at the last second and dash right to the strawberry and to safety.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in a hidden room to the left of the sixth room of the subchapter, this is a more complicated Strawberry to collect than the last few. You can either wall jump on the metallic wall or dash directly upward after climbing briefly and jumping. From here, walk on the spring and continue left, then keep yourself inbetween the walls and dash to the right before falling in the spikes to collect the berry.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_5",
+      "collectible_type": "strawberry",
+      "collectible_number": 5,
+      "hidden": false,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Not Missable] In the room above the flying strawberry you'll find strawberry 5. Use the traffic light lift to boost yourself up and grab onto the floating ice with spikes, jumping to dash onto the platform and collect the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "The screen above the flying strawberry, use the lift on the right to fling yourself up and to the left. Use your dash to grab the strawberry in the upper left corner.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Once you make it back to the frame that you were in before, you may think that there is no strawberry to collect. However, there is one in the top left hand corner waiting for you. What you want to do is stand on the conveyor belt platform, and as it shoots upwards, use that momentum to jump at the last second to propel yourself upwards. As you are airborne, move over to the left towards the floating platform and hang on to the right side of it for dear life. Climb up a bit and as you jump off, dash up-left and grab that strawberry.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in the sixth room of the subchapter, you must use the momentum from being launched up by the traffic light block and move yourself to the left to grab the floating platform. From there, climb a bit and dash in the direction of the Strawberry.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_6",
+      "collectible_type": "strawberry",
+      "collectible_number": 6,
+      "hidden": true,
+      "section": "Start",
+      "info": [
+        {
+          "instruction": "[Missable] In the room above the flying strawberry, head to the bottom right of the room and you will see breakable ice - dash into the ice to break it, then enter the room to find strawberry 6. Once inside, jump down avoiding the spikes - then dash up-right onto the traffic light lift and ride it to collect the strawberry. To exit and continue: Dash up-left towards the wooden platform with green algae and exit the way you came in - to the left.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "In the same room as Strawberry #5 is a breakable block in the lower right corner. Dash through it to find the sixth strawberry’s location. Drop through the spikes and dash to the geared platform. Ride it and jump off toward the strawberry. Catch a ride back and dash through the floor above to safely clear the room.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "You may think that you just need to proceed through to the top right of this section. However to get another strawberry, make your way to the bottom right of the frame and dash into the wall to uncover a hidden area. Once you enter, you’ll want to jump down and hang on to the wall on the left. Give yourself a bit of space to jump from it and hang on to the top-left side of the conveyor belt. As it moves, jump at the right time again and it will propel you over to the strawberry. To get back, just jump off to the left and dash up-left through the wooden platform in the middle of the frame.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "Found in a hidden room to the right of the sixth room of the subchapter accessed by dashing into the block of ice, this Strawberry can be slightly tricky. You have to fall between the 2 spiked walls and then from there either grab the left wall and jump from there into a diagonal upward dash or dash without needing to touch the wall to land on the traffic light block. After landing, it will take you right to the berry where you can collect it and make it back by simply dashing diagonally through the bridge.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_7",
+      "collectible_type": "strawberry",
+      "collectible_number": 7,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] From the first checkpoint - head left into a room with floor spikes and a green extra dash crystal. Dash up-left falling into the crystal, then dash up-left again to get across the spikes. Head upwards to find the room with strawberry 7. BEWARE OF THE SPRING-PAD BELOW THE SPIKES! Avoiding the spring pad under the spikes, use the (other) spring-pad to grab onto the first floating platform. Jump over the spikes dashing into the green crystal, then dash onto the platform to collect the strawberry. To exit and continue: Drop down to the left and say hello to Theo👋. From the room with Theo, head right to revisit the room with floor spikes and green crystal. Head right again to continue from checkpoint 1.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "This strawberry is in a room above the character Theo. To find Theo, go left from the room with a green crystal in the center. Jump and dash diagonally to the left to hit the green crystal in this new room and dash again to make it to safe ground. Climb up the wall on the left to find a hidden area. Watch out for the spring on the ground beneath the spikes! Hop over the hazard and use the second spring to launch toward the wall. Grab it and jump over the spikes toward the green crystal. Dash toward safety and the strawberry. Drop down the passage on the left to see Theo.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "First off, head through the left exit into a room with a dash diamond. These diamonds will allow you an extra dash in mid-air. So jump off the platform and dash up-left, fall onto the diamond and dash again to safety. From here, you can go left and meet a main character, but to get the strawberry, we’ll want to go up. As you proceed through this room, be mindful of the spring in front of you (it got me the first time). Jump over that and use the next spring to propel yourself upwards and veer off to the left a bit. Dash up-left over the spikes and collect the diamond, then dash up-left again onto the wooden plank. Now go grab that strawberry!",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_8",
+      "collectible_type": "strawberry",
+      "collectible_number": 8,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] Strawberry 8 is hidden - so from the first checkpoint, look to the right and you will see breakable dirt between two wooden platforms. Dash into the dirt and head inside to reveal the hidden strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Back in the room with the green crystal in the center (Reference photo above in Strawberry #7), make your way to the right. Climb up and dash above the crystal so you fall on it to regain your dash. Before hitting the spikes, dash to the right on safe ground. Instead of jumping up, dash through the brown rock to find a hidden strawberry.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Go back to the screen where we went left and make your way to the longer wooden platform on the bottom right of the screen. Dash into the wall to reveal another hidden area. Here is another strawberry!",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_9",
+      "collectible_type": "strawberry",
+      "collectible_number": 9,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] Fall towards the spikes then quickly dash left, sliding down until you jump to safety onto the platform. Jump up to grab onto the wall, climbing up and using the dash crystal to make it to the other side. Head right into the next room. On the vertical traffic light lift, boost left of the arrow sign to unlock a secret passage. Dash onto the platform to the left and head through to the next room. Once you're in the next room: Use the spring pad to dash up and climb up the wall. Grab onto the traffic light lift to lower it, then quickly jump over the spikes. Grab onto second lift and ride it all the way left, then climb into the nook above and wait for the lift to pass. Once clear, let go of grab, dash left and climb onto the wooden platform using the rest of your stamina. Head up and left into the next room - an open room with floating platforms. Head left, dashing across the floating platforms and you will come across strawberry 9 and the crystal heart location.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "In the room with the two geared platforms (one that launches you to the right, the other upward), there is a secret passage that leads to the upper left corner. Using the upward geared platform, jump and dash into the small crevice next to the up arrow sign. This reveals the passage to the left corner. To clear this room, you need to overcome two geared platform obstacles. Wall jump to reach the top of the first, grab on to activate it and then quickly let go and dash over the spikes. Grab the second block and ride it all the way to the left. Climb in the small alcove above and let the platform pass beneath you. Climb onto the left side of the block and ride it back over. Wall jump your way out and go left. Dash through the air onto the only platforms until you reach the satellite where the strawberry is.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Make your way through the next screen (as there are no strawberries here) and then you’ll be in a room with two conveyor belt platforms. Now this part is tricky, so perhaps a little stretch before you attempt it may help… See that arrow above? Well that’s where you want to go. Jump onto the first platform and propel yourself to the next one, but try not to go too far right as when that platform goes up, it’ll squash you. As it propels you upwards, you want you’ll want to jump to the left, then dash up-left and grab onto the wall to climb up onto the wooden plank. Jump and dash over to the left-hand platform and proceed. This one requires you to be mindful of how long you hold onto the sides. Move forward and use the spring to propel yourself upwards and cling onto the right wall. Quickly move up and jump to the side of the conveyor platform. As it’s about fall down, kick off it back onto the right wall and cling onto it again. When the conveyor platform is down, jump left and over the top of the spikes to land safely on the other side. Now, grab onto the right side of the platform and when it moves, jump and cling on to the right wall above it. When the platform moves back, move down and grab onto the left side of it. When it moves, you’ll be able to make your way up onto a wooden platform. Make your way up to the top left of the screen, and proceed to the next frame. Jump and dash from one platform to another and make your way to the strawberry next to the computer.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "crystal_heart",
+      "collectible_type": "crystal_heart",
+      "collectible_number": 10,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": " In the same place as strawberry 9, you will come across a small computer screen with flashing colours and colourful birds flying around. The birds represent directions to dash, and the colours on the computer screen represent the order you have to do it in. Therefore, to reveal the crystal heart you have to dash in the direction of the birds, in the order of colours on the screen. Once revealed, you have to dash into the crystal heart to collect it. Screen with colour order: 1. White, 2. Purple, 2. Blue, 4. Red, 5. Purple, 6. Yellow Coloured bird directions: Left [Purple], Up-Left [Yellow], Up [White], Up-Right [Red], Down-Right [Blue] To reveal the crystal heart you have to dash in the directions: → Up → Left → Down-Right → Up-Right → Left → Up-Left",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Stick around at the satellite to find Chapter 1’s Crystal Heart. The birds are the key to this puzzle. After the computer beeps through a cycle, the birds strike a pose. Each color goes to the same spot. These locations are actually directions to dash in and the computer cycle is the order in which you need to dash. The solution is Up, Left, Down-Right, Up-Right, Left, Up-Left. Dash in those directions and the Crystal Heart will appear.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "And watch the pretty birds (ooh, pretty!). Actually, you really do need to watch the pretty birds, as this is how to get this chapter’s Crystal Heart. We’ll have our full Crystal Heart guide up very soon.",
+          "source": "SWITCHABOO"
+        },
+        {
+          "instruction": "The Crystal Heart in this chapter can be found in Chapter 1's second sub-chapter, Crossing. After passing the house, the player must get on the first Conveyor-Belt Platform in the following room and advance to the second as usual; however, on the second Conveyor-Belt Platform, the player must jump left as they're flung into the air and dash upwards to the left of the up sign, revealing a secret passage. The player must then dash to the left from there to get to the room connecting to this screen's top-left corner. After a few screens, the player will arrive at the location of a computer. Here the Crystal Heart puzzle begins. The computer will flash a sequence of colors; nearby, there will be a number of small, colored birds, each of whom corresponds with a color that the computer flashes. The computer will flash a series of colors intermittently, followed by the birds all moving in different directions. To obtain the heart, one must pay attention to the sequence of colors that the computer flashes, as well as the directions that the birds move in every time the sequence finishes. The player must dash in the direction that each bird corresponds to in the order in the computer's light sequence where that bird's color appears on the computer (in relation to the other colors, not in real time). The direction sequence that the player must perform is: Color Directions: Up (White), Left (Purple), Down-Right (Blue), Up-Right (Red), Left (Purple), Up-Left (Yellow). Performing this series of dashes will cause the birds to form into this chapter's Crystal Heart (entitled Pointless machines) which the player can then obtain.",
+          "source": "CELESTE WIKI"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_10",
+      "collectible_type": "strawberry",
+      "collectible_number": 11,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] In the room after the up-arrow sign, head to the top-left of the room and dash through the breakable ice. Here you will find strawberry 10 floating near the left wall. Once inside: Use the dash crystals to jump and grab the strawberry, then wait grabbing on the wall until the crystals replenish - using them to get back and collect the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Continuing to go to the right, after the room with the secret passage in the center, hop on the spring and break the block in the upper left corner. Inside is a room with two green crystals, a spiked floor, Strawberry #10, AND the passage to the next collectible piece of fruit. Use the crystals to make it to the far wall, wait for them to regenerate and then return safely to the right side of the screen with the fruit.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Go back the way you came and in the next frame, go up and over just to drop down as the crumbling bricks fall. Now that you’re back, jump into the hidden area that we found before (just above where the sign was), make your way up and through to the next frame. Now if you look closely at this one, you can see that there is a crumbly wall in the top-left hand corner of the frame (all those years of playing Zelda has finally paid off!). Jump onto the spring and dash onto the platform. Dash into the wall and reveal another hidden area. This strawberry looks pretty self-explanatory, but in case you can’t figure it out, jump to the left and dash up-left, picking up the diamonds and dashing again until you get the strawberry. But don’t be in a hurry to get back, you still need to be safe on land to be rewarded with the strawberry. Cling onto the wall and wait for the diamonds to reappear and make your way back to the entrance.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_11",
+      "collectible_type": "strawberry",
+      "collectible_number": 12,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] After the room with the up-arrow sign, head to the top-left of the room and dash through the breakable ice. Here you will find strawberry 10 floating near the left wall. To get to strawberry 11, jump onto the floating platform above and dash into the breakable ice in the middle of the roof - where you will be taken to another room. In the next room: Climb up onto the wall to jump onto the crumbling platform, then to the vertical lift. Use the vertical lift to boost up onto the falling floating ice, then quickly dash to safety. Make your way to the next room which contains strawberry 11. Once you’re in the strawberry room: Dash onto the dirt platform. Fall to grab the strawberry then dash right to collect the crystal, dashing up-right to land safely and collect the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "In the same room as Strawberry #10, climb the right-hand wall to reach the sole platform. Jump out into the middle and dash upward to find a new screen. Climb through this room, using the falling blocks and the geared platform to make it to the top. In the following room, you’ll spot the strawberry. Dash and climb your way to the brown platform. Drop down to the strawberry and dash in between the spikes to collect the green crystal. With your dash restored, dash diagonally upward to safety.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "But wait, we’re not done here yet! Jump and grab onto the wall on the right, then jump and dash onto the floating island. Can you see the crumbling part in the wall? Dash up into it and proceed to the next area. There are no strawberries here so proceed to the top right and through to the next frame. There’s your strawberry! Fall down, dash up-right, grab onto the dry wall and climb up it. Fall off the wooden platform to the right, collect the strawberry and dash between the spikes into the diamond. Dash again up-right past the spikes and there we go!",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_12",
+      "collectible_type": "strawberry",
+      "collectible_number": 13,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] In the screen after strawberry 11 or after the two floating and falling platforms (depending if you took the path of strawberry 11 or not) you will see: Spikes on the floor, Floating ice with spikes, And green algae hanging down from a platform. [You are aiming for the hole in the floor under the wooden platform with spikes.] Jump and climb the floating ice and dash onto the algae platform before the ice falls. From the platform, fall towards the spikes below before quickly dashing right to fall down the hole. The room with strawberry 12 has three traffic light lifts with the strawberry floating near the right wall. Jump on each of the lifts without getting squished and grab the strawberry, then wait for the lifts to reset before jumping back to collect the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Advance a few couple more rooms until you reach the room with the floating column topped with spikes in the center. Before leaving the room by going to the right, there are two other rooms that house strawberries. One of them is at the top and the other is at the bottom. Using the column in the center, climb up to the platform in the left corner to regain your dash. Hop to the right side of the column and then leap to the disappearing block platform. Jump straight up to the small wooden ledge and climb into the room above. Use the geared platforms to go around the room and get the strawberry. Be careful to not jump off of the first platform too soon or the momentum will carry you into the spikes above. When on the horizontal-moving platform, use its momentum to leap down to the strawberry, dashing to clear the spikes on the ground.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "In this next room, dash onto the side of the ice platform. As it is about to fall, jump again onto the platform on the top left. Do a leap of faith to the right and dash onto the three stones hovering. Before they come crashing down jump and dash upwards and land on that tiny little wooden plank next to the traffic lights in the background. Make your way upwards and onto the next secret(ish) area. Jump and grab onto the left side of the conveyor platform, but be sure not to jump off of it until it completely stops (otherwise you’ll be projected up into the spikes at the top). Jump off to the left and grab onto the right side of the other conveyor platform. When that stops, jump over it to the left and dash right (or grab onto the wall to the left and jump right over the spikes) just before you’re about to hit the spikes.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_13",
+      "collectible_type": "strawberry",
+      "collectible_number": 14,
+      "hidden": true,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Missable] In the same room as the floor spikes, floating ice platform, and green algae platform - head upwards through the hole in the roof to find the room with strawberry 13. Once inside: Jump and climb to the top of the square traffic light lift (so you'll be able to make the jump) and wait until it stops before jumping off - as you'll die on the spikes. From the square lift, jump onto the rectangle lift and ride it all the way left. Then jump left over the spikes on top, falling to dash right grabbing the strawberry. To exit and continue: Exit the same way you entered - from the hole in the floor.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Back in the center room, you can see a small path on the floor that drops into a room below. You need to drop down above the spikes and then dash into the small path. In the room below, you simply need to hop across all three geared platforms to grab the strawberry at the end. Hold onto the wall until they reset and then hop your way back to safety.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Now make your way back to the previous frame, but do not move on as we are not done here yet! Do you see that tiny little gap at the bottom of the screen? Yep, that’s where you want to go! Jump down onto the three crumbling stones, jump to the left and time your dash to the right perfectly. Now this hidden area is all about quick movement! Jump off the wooden plank onto the first conveyor platform. Before that one shoots up, jump to the next one, then the next one, and then get the strawberry and cling on to the wall. Wait for the platforms to come back down and do the same thing to the left of screen. Make your way back up to the previous frame, use the spring to jump up onto the stones, dash up to the plank and move onward to the next frame.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_14",
+      "collectible_type": "strawberry",
+      "collectible_number": 15,
+      "hidden": false,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Not Missable] Progress through the level and you will see strawberry 14. It will be surrounded by spikes in a nook at the top of the screen. I've found two ways you could do this depending on what you find easier: Use the lift to boost yourself the right amount to grab the strawberry. Or to be safe - boost off the lift (pressing jump later) to boost below the strawberry, then dashing upwards to grab it without touching the spikes. Dash to the next screen to collect the strawberry, as standing on the lifts doesn't count.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "This strawberry is out in the open, in between walls of spikes at the top of the screen. Use the momentum of the upward moving geared platforms in the room to launch close to the fruit and then dash upward to nab it. Be careful to not dash too high up or you’ll hit the spikes. Continue out of the room to lock in the strawberry.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Now this next one is tricky, so we added a video below to show you. But to put it into words, make your way down and cling onto the right side of the wall below you. Jump right and dash onto the conveyor platform. Move over to the right of the platform and as it shoots up, at the last second you want to jump slightly to the right and use that momentum to propel Madeline into that strawberry. Don’t use your dash, because you’ll need that for when you come down. Dash to the right onto the next conveyor platform and let that shoot you up through the spikes and onto the platform and to safety. Phew!",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_15",
+      "collectible_type": "strawberry",
+      "collectible_number": 16,
+      "hidden": false,
+      "section": "Crossing",
+      "info": [
+        {
+          "instruction": "[Not Missable] In the room after strawberry 14, you will see strawberry 15. Ensure the lift is in the stationary position. Fall down towards the spikes and dash upwards to grab onto the right side of the lift. Once the lift moves you towards the strawberry, you have to quickly jump, grab onto the wall to grab the berry, then quickly jump back onto the lift before it moves away. As the lift slowly moves back, jump onto the wooden platform to collect the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "This strawberry requires you to be quick with your wall jumps. Out in the open as well, ride the geared platform on its left side. At the end, climb up to safety and recharge your stamina. Drop down and dash to the left to grab onto the geared platform, this time on its right-hand side. When it stops, jump off to grab the strawberry and then quickly wall jump back. Jump up to solid ground and lock in the fruit.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "In the next frame, the strawberry is in a very awkward spot. You’ll need to be very quick and precise with this one, so try not to get discourage if it takes you three (or thirty) tries. Jump and cling on the left hand side of the conveyor platform. As it gets to the end, climb up to the right side of the wall just below the wooden plank. As the conveyor makes its way back, you’ll need to drop down and cling onto the right side of it. It’ll move back to the right again which you’ll then need to jump off to get the strawberry. Cling onto the wall and jump back onto the side of the platform. When it starts to move back, make your way up and to safety.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_16",
+      "collectible_type": "strawberry",
+      "collectible_number": 17,
+      "hidden": true,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": "[Missable] From checkpoint 2, head towards the pathway behind the lift. Grab onto the lift to move it out of the way, then quickly dash left to get behind it and head upwards. Once in the next room, continue left - dashing over the lift on the floor. To make your way across the next room, dash left onto the spring-pad, then dash up to land safely on the wooden platform above. Fall left to land on the platform below with the green sign, then dash to climb onto the platform above - heading left to find strawberry 16. You will see strawberry 16 at the bottom of the cliff - jump off to grab the strawberry then quickly dash up to climb up and collect the berry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "To find the next couple of strawberries, you’ll need to get behind the geared platform in the open room. Grab onto it, ride it to a stop, then hop and dash over it to slip behind it into this new area. Skip over the geared platform in the floor and continue to the left. In the next room, use the blade of grass as a marker for how long your dash is. Dash to the spring on the floor and use its lift to safely dash to the wooden platform above. Drop down to the ledge with the green sign and then climb out of this room. Outside is the strawberry. Drop down to get it and then climb back up the wall to get to solid ground.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Proceed to the next frame and do you see that strawberry to the right of screen? Let’s not worry about that one just yet… instead, jump off the first plank and dash up through the plank above. Cling on the the right side of that conveyor platform and wait for the finish moving. Don’t let it project you, but instead quickly jump up and over the spikes so that you’re on the left hand side of it. Before it comes back to squish you, go left, jump up and proceed to the hidden area above. In this part, jump onto the middle of the conveyor platform and at the last second, jump and let it project you upwards through the spikes and then dash that last bit. Make your way to the left and up to the next frame. To get that strawberry, you’ll need to jump up, dash, and cling onto the side of the platform conveyor belt. But before making your way to that strawberry, there is ANOTHER hidden area that is revealed behind the conveyor platform that has this chapter’s B-Side Tape. For info on how to get that, we’ll have our guide up on B-Side Tapes very soon. Now, back to the strawberry! Jump, dash, and cling onto the conveyor platforform and jump off at the last second so that it flings you aaallllllll the way over to the other side.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "cassette_tape",
+      "collectible_type": "cassette_tape",
+      "collectible_number": 18,
+      "hidden": true,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": " From checkpoint 2, head for the path behind the traffic light lift. From the next room, use the lift to boost yourself upwards and head into the next room. There is a secret behind the lift in this room - grab onto the lift to move it out of the way then dash to get behind it to find the cassette room. Congrats you found the cassette room! In time with the beat, jump across the pink and blue platforms, then climb the left wall onto the traffic light lift and ride the lift all the way right to dash and grab the cassette.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Back in the room with the geared platform in the floor, use its upward momentum to fling you to the ground above. Head into the next room to find a geared platform in the wall. Before using it to get the tantalizing strawberry on the right, activate it and sneak into the room behind it that is emitting a glow. This is a cassette tape room. The blue and pink platforms alternate based off the beat of the music. Time your jumps to navigate the room on the alternating platforms to grab the tape. This unlocks Chapter 1’s B Side level.",
+          "source": "IGN"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_17",
+      "collectible_type": "strawberry",
+      "collectible_number": 19,
+      "hidden": true,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": "[Missable] From checkpoint 2, head for the path behind the traffic light lift. From the next room, use the lift to boost yourself upwards and head into the next room. Once you find the next room, use the lift to boost yourself over the spikes and collect strawberry 17. To exit and continue: Head down the hole to return to the lift on the floor we dashed over, then head down again to be back at checkpoint 2.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "Back in the room with the geared platform in the floor, use its upward momentum to fling you to the ground above. Head into the next room to see your next strawberry. After getting the Cassette Tape, use the geared platform to fling yourself across the room to the strawberry.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Now jump down to the previous frame, but we’re not finished with this side part yet. Make your way past the conveyor platform and go through to the left side of the screen. Jump and dash to the left onto the spring button. As that shoots you up, make your way to the left a bit and then dash again up through the plank and to safety. Jump down to the left and land on the small platform that has no spikes and a sign is that’s pointing upwards. Jump off that platformto the left and dash up, cling on to the icy side of the wall and make your way up. Down below in the next frame, you’ll see a sweet sweet strawberry. Jump down and move to the right, making sure you do not use your dash to collect it as you will need it to come back up. Cling on to the side of the wall, kick back off of it and dash up back to safety.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_18",
+      "collectible_type": "strawberry",
+      "collectible_number": 20,
+      "hidden": false,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": "[Not Missable] From checkpoint 2, use the lift to boost yourself over the chasm. Then from the outer small wooden platform, fall so you are under strawberry 18 and quickly dash upwards to climb up and grab the strawberry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "This strawberry is clear as day in the chasm room. Use the geared platform to launch yourself across the room. When beneath the strawberry’s location, dash up to snag it.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "Make your way back to the frame with the conveyor platform and then go back down to where we initially started this adventure off the beaten path. Step onto the crumbling stone to the right and fall down in front of the conveyor platform. Cling onto it, project yourself over to the other side and cling onto the wall. pull yourself up onto the plank on the left hand side and take a nice deep breath. Jump up and to the left, make your way around to the right and dash upwards onto the other plank where the strawberry is. To proceed, make sure that you go right before you go up, because once you go up, you cannot come back.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_19",
+      "collectible_type": "strawberry",
+      "collectible_number": 21,
+      "hidden": false,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": "[Missable] From checkpoint 2, use the traffic light lift to boost yourself over the chasm - continuing right to find the strawberry 19 room. Once inside DON'T DASH Fall down to the lift below to boost yourself right, landing on the crumbling platform and quickly climbing towards the spring pad. Use the spring pad to grab the strawberry, then dash to land on the platform and collect the berry.",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "After snagging Strawberry #18, hop through the floor and go to the right. This room contains another flying strawberry. Use the geared platofrm to launch across the room to the disappearing blocks. Climb the right-hand wall up to the spring and grab the flying fruit.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "In here, you’ll need to walk off the plank and land on the conveyor platform. Time the jump and leap over to the crumbling stones on the bottom right hand side of the screen. Jump and cling onto the right wall and make your way up to the right floating island. Use the spring button, collect the strawberry and dash onto the middle platform. Now jump your way back to the plank and proceed through to previous frame.",
+          "source": "SWITCHABOO"
+        }
+      ]
+    },
+    {
+      "collectible_id": "strawberry_20",
+      "collectible_type": "strawberry",
+      "collectible_number": 22,
+      "hidden": true,
+      "section": "Chasm",
+      "info": [
+        {
+          "instruction": "[Missable] From checkpoint 2, head upwards through the room to make your way to strawberry 20. Jump and dash upwards to grab onto the wall, jumping to grab the dash crystal and land safely onto the wooden platform. Jump and dash left to land on the platform between the spikes. Jump down to the left to quickly dash up-left to grab onto the wall - climb to safety onto the wooden platform Climb upwards until you enter the next room. Jump onto the spring-pad to grab onto the wall, then dash onto the traffic-light lift. Ride the lift up until it stops, as if you jump too soon you will get launched into the spikes. Jump onto the crumbling platform and quickly dash left, then make your way into the next room. If you look towards the top-left of the screen you will see a secret passage. Climb up the walls and grab onto the large ice block to the left to make it fall - quickly jumping to safety before it falls. Once the block has fallen, dash into the wall where the ice block once was - this will reveal the secret passage to the strawberry. Once inside the strawberry room: Climb the wall to the right and dash up-left into the green crystal - continuing to dash until you reach the end Fall to grab the strawberry, then dash up-right into the green crystals until you land back to safety. To exit and continue: Head out the way we came - to the right",
+          "source": "STEAM COMMUNITY"
+        },
+        {
+          "instruction": "In the spike room with the blocks that fall when you grab them will be the hiding spot for this strawberry. The block in the upper left corner will drop down if you grab it. Drop the block and then dash into the wall that was behind it to reveal a hidden path. The next screen reveals the strawberry. Use the green crystals to make your way up and around the spikes, grabbing the strawberry along the way.",
+          "source": "IGN"
+        },
+        {
+          "instruction": "NOW you can jump back up and make your way up to where the big plank is up the top. Proceed upwards… Jump to the right, dash up and cling to the wall without spikes on the left. Kick off from that wall, collect the diamond and dash onto the plank to the right. Jump and dash to the left and land on the middle platform. Now jump to the left and fall until you’re just about to hit the spikes; before you do, dash to the left and cling onto the wall. Climb up and jump onto the little platform. Then proceed further upwards. In this frame, jump onto the spring button and cling onto the wall on the left. Make your way up past the spikes, jump to the right, dash and cling onto the left side of the conveyor platform. After it moves up, kick off and land on the crumbling rocks, then quickly jump to the left and dash to safety. Proceed to the left and then up. In this frame, jump onto the first step and the jump to the right. Dash upwards, cling onto the wall and climb upwards to the plank. If you cling onto the rectangle that seems a bit off, make sure to jump from it quickly as it’ll fall after a few seconds. This is important to remember, as there are other ones just like it. There is a hidden area to the top-left, just behind the other odd-looking rectangle. Jump and cling onto it, let it fall but jump back to safety so that you don’t go down with it. Now proceed through to the hidden area. Jump and cling onto the wall on the right. Kick off and dash from one diamond to another, grabbing the last strawberry along the way. Now make your way back to the previous frame, make the rectangle fall again and jump and dash over to the floating island. Cling onto the right side of the rectangle and fall down with it. Jump and dash from it and proceed to the next room. Jump onto the spring button and cling onto the right side of the conveyor platform. Jump at the last second so that it projects you far to the right. Dash at the last second again and cling onto the left side of the other conveyor platform. When that shoots upwards, jump up at the last second and project yourself up to safety. Jump up through the upper plank, fall down and dash up-left, and then repeat over to the far left and proceed upwards. The cutscene will begin and we are done with Chapter 1 – Hooray!",
+          "source": "SWITCHABOO"
+        }
+      ]
+    }
+  ]
+}
