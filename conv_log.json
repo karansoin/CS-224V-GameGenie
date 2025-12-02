@@ -1,109 +1,13 @@
 [
     {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "a",
-        "bot": "I cannot answer the question.",
-        "turn_context": "",
-        "global_context": "",
-        "system_action": [],
-        "user_target_sp": "chitchat()",
-        "user_target": "chitchat()",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "strawberry_2",
-        "bot": "It seems like your last message was a bit unclear. If you have a specific question or need assistance with something in the game Celeste, feel free to ask! I'm here to help you with tips and hints for collecting items or progressing in the game.",
-        "turn_context": "",
-        "global_context": "",
-        "system_action": [],
-        "user_target_sp": "chitchat()",
-        "user_target": "chitchat()",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
+        "session_id": "355d4292-93c5-41e9-b492-7e0cf943f249",
         "user": "10",
-        "bot": "It looks like you're trying to communicate something related to the game Celeste. If you have a specific collectible or area you're focusing on, please let me know, and I can provide you with hints or tips to help you out!",
+        "bot": "I'm here to help you with collecting items in the game Celeste! If you have any specific collectibles you're trying to find or any questions about the game mechanics, feel free to ask!",
         "turn_context": "",
         "global_context": "",
         "system_action": [],
         "user_target_sp": "chitchat()",
         "user_target": "chitchat()",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "strawberry_11",
-        "bot": "> Just to clarify, would you like to proceed with the hint for **strawberry 11** at tier **1**?",
-        "turn_context": "request_hint = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1')\n",
-        "global_context": "request_hint = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1')\n",
-        "system_action": [
-            "AskField(request_hint, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
-        ],
-        "user_target_sp": "RequestHint(collectible_id=\"strawberry_11\", hint_tier=\"1\", confirm_details=False)",
-        "user_target": "request_hint = RequestHint(collectible_id='strawberry_11', hint_tier='1', confirm_details=False)",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "i want hint tier 4",
-        "bot": "> Just to clarify, would you like to proceed with the hint for **strawberry 11** at tier **1**? Please confirm.",
-        "turn_context": "",
-        "global_context": "request_hint = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1')\n",
-        "system_action": [
-            "AskField(request_hint, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
-        ],
-        "user_target_sp": "no_response(\"Tier 4 is not an available option. Please choose a tier between 1 and 3.\")",
-        "user_target": "no_response('Tier 4 is not an available option. Please choose a tier between 1 and 3.')",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "4",
-        "bot": "> It seems there was a misunderstanding. You initially requested a hint for **strawberry 11** at tier **1**, but now you want a hint at tier **4**. Would you like to proceed with the hint for **strawberry 11** at tier **4**? Please confirm.",
-        "turn_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1', confirm_details = False)\n### Active APIs\n",
-        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1', confirm_details = False)\n### Active APIs\n",
-        "system_action": [],
-        "user_target_sp": "request_hint.confirm_details = False",
-        "user_target": "request_hint.confirm_details = False",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "yes",
-        "bot": "> Just to clarify, would you like to proceed with the hint for **strawberry 11** at tier **4**? Please confirm.",
-        "turn_context": "request_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '4')\n",
-        "global_context": "request_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '4')\n",
-        "system_action": [
-            "AskField(request_hint_1, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
-        ],
-        "user_target_sp": "request_hint = RequestHint(collectible_id='strawberry_11', hint_tier='4', confirm_details=True)",
-        "user_target": "request_hint_1 = RequestHint(collectible_id='strawberry_11', hint_tier='4', confirm_details=True)\nrequest_hint = request_hint_1",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "tier 1",
-        "bot": "> Just to clarify, would you like to proceed with the hint for **strawberry 11** at tier **1**? Please confirm.",
-        "turn_context": "request_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1')\n",
-        "global_context": "request_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1')\n",
-        "system_action": [
-            "AskField(request_hint_1, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
-        ],
-        "user_target_sp": "request_hint_1.hint_tier = '1'",
-        "user_target": "request_hint_1.hint_tier = '1'",
-        "user_target_suql": ""
-    },
-    {
-        "session_id": "073f5024-dca4-4ea3-9d90-fa3cf203ce55",
-        "user": "yes",
-        "bot": "It seems you've confirmed that you'd like to proceed with the hint for **strawberry 11** at tier **1**. I'll provide you with that hint now.\n\nFor tier 1, here's your hint: **Look for the area where you can use your dash to reach higher platforms. The strawberry is often located in a spot that requires a bit of exploration.** \n\nIf you need more help or want to ask for a different tier, just let me know!",
-        "turn_context": "### Completed APIs\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1', confirm_details = True)\n### Active APIs\n",
-        "global_context": "### Completed APIs\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_11', hint_tier = '1', confirm_details = True)\n### Active APIs\n",
-        "system_action": [],
-        "user_target_sp": "request_hint_1.confirm_details = True",
-        "user_target": "request_hint_1.confirm_details = True",
         "user_target_suql": ""
     }
 ]

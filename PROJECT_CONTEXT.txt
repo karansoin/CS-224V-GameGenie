@@ -1,0 +1,272 @@
+================================================================================
+CS-224V GAME GENIE - PROJECT CONTEXT
+================================================================================
+Last Updated: December 1, 2025
+
+PROJECT OVERVIEW
+================================================================================
+A hint generation system for the game Celeste (Chapter 1: Forsaken City).
+Scrapes multiple gaming guides and uses LLM to generate progressive hints
+for strawberry collectibles.
+
+COURSE: Stanford CS 224V
+FRAMEWORK: Genie Worksheets
+LLM API: LiteLLM proxy (currently has authentication issues)
+
+CONDA ENVIRONMENT
+================================================================================
+Name: celeste
+Python: 3.11
+Key packages:
+  - genie-worksheets
+  - exa-py (web scraping)
+  - jupyter
+  - ipykernel
+  - python-dotenv
+
+Setup:
+  conda activate celeste
+
+ENVIRONMENT VARIABLES (.env)
+================================================================================
+LLM_API_KEY=sk-qB7hvCZpfQgTPIkatzNNqg
+EXA_API_KEY=e9402931-bca2-4978-8d46-e311f6fa0b8e
+LLM_API_BASE_URL=https://cs224v-litellm.genie.stanford.edu
+
+Note: LLM API currently has 401 authentication errors - course infrastructure
+issue requiring staff intervention.
+
+CURRENT PROJECT STRUCTURE
+================================================================================
+.
+├── .env                              # Environment variables (API keys)
+├── .env.example                      # Template for .env
+├── readme.md                         # Original project README
+├── DATABASE_SUMMARY.md               # Old documentation (outdated)
+├── llm_notebook.ipynb               # Jupyter notebook for testing
+├── scrape_and_build_database.py     # MAIN SCRIPT - scraper & builder
+└── database/
+    ├── raw_scraped_data.json        # Raw scraped content from 7 URLs
+    └── celeste_chapter1_database.json  # FINAL DATABASE - structured output
+
+MAIN SCRIPT: scrape_and_build_database.py
+================================================================================
+Single comprehensive script that:
+1. Scrapes 7 gaming guide URLs using Exa API
+2. Extracts strawberry/collectible information using keyword search
+3. Builds structured JSON database with source attribution
+
+Configuration (edit these in the script):
+  - URLS_TO_SCRAPE: 7 URLs (easily add/remove)
+  - SUBPAGES: 3 (number of subpages to crawl per URL)
+  - SUBPAGE_KEYWORDS: ["strawberry", "collectible", "guide", "walkthrough",
+                       "secret", "crystal heart", "cassette"]
+
+To run:
+  python scrape_and_build_database.py
+
+SCRAPED SOURCES (7 URLs)
+================================================================================
+1. https://celeste.ink/wiki/Forsaken_City
+2. https://celestegame.fandom.com/wiki/Chapter_1:_Forsaken_City
+3. https://www.ign.com/wikis/celeste/Chapter_1-_Forsaken_City
+4. https://steamcommunity.com/sharedfiles/filedetails/?id=3474899136
+5. https://www.neoseeker.com/celeste/walkthrough/Level_1_-_Forsaken_City
+6. https://www.switchaboo.com/celeste-100-strawberry-guide/
+7. https://www.trueachievements.com/game/Celeste/walkthrough/3
+
+Total scraped: 123,132 characters
+
+LEAST USEFUL SOURCES (may want to remove):
+  - celeste.ink: Mostly navigation menus and cookie notices
+  - celestegame.fandom.com: Mostly table of contents, not actual content
+
+MOST USEFUL SOURCES:
+  - IGN, Steam Community, Switchaboo: Detailed step-by-step for each strawberry
+
+DATABASE STRUCTURE
+================================================================================
+File: database/celeste_chapter1_database.json
+
+Schema:
+{
+  "chapter": "1",
+  "chapter_name": "Forsaken_City",
+  "side": "A",
+  "total_strawberries": 20,
+  "collectibles": [
+    {
+      "collectible_id": "strawberry_1",          // e.g., strawberry_1, crystal_heart
+      "collectible_type": "strawberry",          // strawberry, crystal_heart, cassette_tape
+      "collectible_number": 1,                   // 1-20 for strawberries, null for others
+      "section": "Start",                        // Start, Crossing, or Chasm
+      "info": [
+        {
+          "instruction": "detailed guide text from source...",
+          "source": "https://..."              // Full source URL
+        },
+        // Multiple sources per collectible
+      ]
+    }
+  ]
+}
+
+Statistics:
+  - 22 total collectibles
+    - 20 strawberries
+    - 1 Crystal Heart
+    - 1 Cassette Tape (B-Side unlock)
+  - 75 total info entries
+  - Average 3.4 sources per collectible
+  - Strawberries: 3-4 sources each
+  - Crystal Heart/Cassette: 7 sources each
+
+Sections:
+  - Start: Strawberries 1-6
+  - Crossing: Strawberries 7-15
+  - Chasm: Strawberries 16-20
+
+DATA CLEANING
+================================================================================
+The script automatically:
+  - Removes zero-width spaces and invisible Unicode characters
+  - Removes excessive whitespace
+  - Deduplicates similar instructions (using first 100 chars as fingerprint)
+
+EXTRACTION METHOD
+================================================================================
+Uses keyword-based context extraction (not strict regex):
+  - Searches for: "strawberry #N", "strawberry N", "berry #N", "berry N", "#N"
+  - Extracts generous context: 300 chars before, 1200 chars after
+  - Returns longest/most detailed match found
+  - Works for Crystal Heart and Cassette Tape using their keywords
+
+CELESTE CHAPTER 1 GAME MECHANICS
+================================================================================
+Key mechanics mentioned in guides:
+  - Octadirectional dash (8 directions)
+  - Wall climb & wall jump
+  - Dash crystals (green refill orbs)
+  - Traffic light blocks (green=solid, red=passthrough, toggle on dash)
+  - Disappearing platforms
+  - Springs
+  - Falling platforms
+  - Cassette blocks (rhythm-based)
+  - Spikes
+  - Smashable walls
+  - Geared platforms
+  - Winged strawberries (can't dash or they fly away)
+
+Characters:
+  - Madeline (player)
+  - Theo (met in Crossing section)
+  - Bird
+
+KNOWN ISSUES
+================================================================================
+1. LLM API Authentication Error (401)
+   - Status: UNRESOLVED
+   - Cause: Course infrastructure issue
+   - Solution: Contact CS 224V staff
+   - Error: "Access denied due to invalid subscription key"
+
+2. Some sources have low-quality extraction
+   - celeste.ink: Captures navigation/cookies instead of content
+   - celestegame.fandom.com: Captures table of contents
+   - Consider removing these sources
+
+DEVELOPMENT HISTORY
+================================================================================
+Initial approach:
+  - Created multiple scripts for scraping, extraction, merging
+  - Had separate files: build_level1_data.py, generate_final_structure.py, etc.
+  - Created room-based structure with hint_tiers
+
+Clean restart (current):
+  - Deleted all old scripts and intermediate outputs
+  - Created single comprehensive script: scrape_and_build_database.py
+  - Simpler collectible-based structure (no rooms)
+  - Focus on preserving all source content with attribution
+
+NEXT STEPS
+================================================================================
+1. Wait for LLM API access to be fixed by course staff
+2. Consider removing low-quality sources (celeste.ink, fandom.com)
+3. Possibly increase SUBPAGES if more content needed
+4. Integrate with Jupyter notebook for LLM-based hint generation
+5. Build progressive hint system:
+   - Tier 1: Vague directional hint
+   - Tier 2: More specific guidance
+   - Tier 3: Step-by-step instructions
+
+EXAMPLE QUERY WORKFLOW (once LLM works)
+================================================================================
+1. User asks: "How do I get strawberry #5?"
+2. Load database: database/celeste_chapter1_database.json
+3. Find collectible: collectible_id = "strawberry_5"
+4. Get all sources: collectible["info"] (3-4 different guides)
+5. Pass to LLM with prompt:
+   """
+   Generate 3 progressive hints for Celeste Strawberry #5
+
+   Available information from multiple sources:
+   [paste all info entries]
+
+   Generate:
+   - Tier 1: Vague directional hint
+   - Tier 2: More specific guidance
+   - Tier 3: Step-by-step instructions
+   """
+6. Return tiered hints to user
+
+HOW TO MODIFY SCRAPING
+================================================================================
+1. Edit scrape_and_build_database.py
+2. Modify URLS_TO_SCRAPE list to add/remove sources
+3. Change SUBPAGES number (1-5 recommended)
+4. Adjust SUBPAGE_KEYWORDS array for different content
+5. Run: python scrape_and_build_database.py
+6. Check outputs in database/ folder
+
+IMPORTANT FILES TO NOT DELETE
+================================================================================
+✓ scrape_and_build_database.py  - Main script
+✓ database/celeste_chapter1_database.json - Final structured database
+✓ database/raw_scraped_data.json - Raw scraped content
+✓ .env - API keys
+✓ llm_notebook.ipynb - Notebook for testing
+
+Safe to delete:
+  - DATABASE_SUMMARY.md (outdated documentation)
+  - Any old .py scripts if they appear
+
+QUICK REFERENCE COMMANDS
+================================================================================
+Activate environment:
+  conda activate celeste
+
+Run scraper:
+  python scrape_and_build_database.py
+
+Install dependencies:
+  pip install exa-py python-dotenv
+
+Start Jupyter:
+  jupyter notebook
+
+Check database stats:
+  python -c "import json; d=json.load(open('database/celeste_chapter1_database.json')); print(f'Collectibles: {len(d[\"collectibles\"])}, Info entries: {sum(len(c[\"info\"]) for c in d[\"collectibles\"])}')"
+
+View specific strawberry:
+  python -c "import json; d=json.load(open('database/celeste_chapter1_database.json')); s=[c for c in d['collectibles'] if c['collectible_id']=='strawberry_5'][0]; print(f'Strawberry 5: {len(s[\"info\"])} sources')"
+
+CONTACT & RESOURCES
+================================================================================
+Course: CS 224V (Stanford)
+LLM API Issues: Contact course staff
+Exa API Docs: https://docs.exa.ai/
+Celeste Wiki: https://celeste.ink/wiki/
+
+================================================================================
+END OF PROJECT CONTEXT
+================================================================================
