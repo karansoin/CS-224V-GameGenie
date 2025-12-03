@@ -1,28 +1,80 @@
 [
     {
-        "session_id": "c3214ace-9906-44eb-9223-c2a801e5a67a",
-        "user": "strawberry_15",
-        "bot": "> Would you like to proceed with the hint for the collectible **strawberry_15**?",
-        "turn_context": "request_hint = RequestHint(collectible_id = 'strawberry_15', hint_tier = 1)\n",
-        "global_context": "request_hint = RequestHint(collectible_id = 'strawberry_15', hint_tier = 1)\n",
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
+        "user": "13",
+        "bot": "> Would you like to proceed with the hint for the collectible **strawberry_14**?",
+        "turn_context": "request_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\n",
+        "global_context": "request_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\n",
         "system_action": [
             "AskField(request_hint, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
         ],
-        "user_target_sp": "RequestHint(collectible_id=\"strawberry_15\", hint_tier=1, confirm_details=True)",
-        "user_target": "request_hint = RequestHint(collectible_id='strawberry_15', hint_tier=1, confirm_details=True)",
+        "user_target_sp": "RequestHint(collectible_id=\"strawberry_14\", hint_tier=1, confirm_details=True)",
+        "user_target": "request_hint = RequestHint(collectible_id='strawberry_14', hint_tier=1, confirm_details=True)",
         "user_target_suql": ""
     },
     {
-        "session_id": "c3214ace-9906-44eb-9223-c2a801e5a67a",
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
         "user": "yes",
-        "bot": "I have a hint for the collectible **strawberry_15** (Tier 1):\n\nLook for a strawberry in the room after the previous one; pay attention to the lift.\n\n*Source: STEAM COMMUNITY*\n\nWould you like to proceed with this hint?",
-        "turn_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_15', hint_tier = 1, confirm_details = True)\n### Active APIs\n",
-        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_15', hint_tier = 1, confirm_details = True)\n### Active APIs\n",
+        "bot": "I have a hint for the collectible **strawberry_14** (Tier 1):\n\nLook for a place where a strawberry is surrounded by spikes at the top of your screen.\n\n*Source: STEAM COMMUNITY*\n\nWould you like to proceed with this hint?",
+        "turn_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1, confirm_details = True)\n### Active APIs\n",
+        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1, confirm_details = True)\n### Active APIs\n",
         "system_action": [
-            "Report(None, **Hint (Tier 1) for Strawberry #16**\n\nLook for a strawberry in the room after the previous one; pay attention to the lift.\n\n*Source: STEAM COMMUNITY*)"
+            "Report(None, **Hint (Tier 1) for Strawberry #15**\n\nLook for a place where a strawberry is surrounded by spikes at the top of your screen.\n\n*Source: STEAM COMMUNITY*)"
         ],
         "user_target_sp": "request_hint.confirm_details = True",
         "user_target": "request_hint.confirm_details = True",
+        "user_target_suql": ""
+    },
+    {
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
+        "user": "no, can i have hint tier 2",
+        "bot": "> Would you like to proceed with the hint for the collectible **strawberry_14**?",
+        "turn_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\n### Active APIs\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2)\n",
+        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\n### Active APIs\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2)\n",
+        "system_action": [
+            "AskField(request_hint_1, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
+        ],
+        "user_target_sp": "RequestHint(collectible_id='strawberry_14', hint_tier=2, confirm_details=True)",
+        "user_target": "request_hint_1 = RequestHint(collectible_id='strawberry_14', hint_tier=2, confirm_details=True)",
+        "user_target_suql": ""
+    },
+    {
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
+        "user": "yes",
+        "bot": "> I have a hint for the collectible **strawberry_14** (Tier 2):\n>\n> You'll need to use the lift to reach the strawberry. Time your jump carefully to avoid the spikes.\n>\n> *Source: STEAM COMMUNITY*\n>\n> Would you like to proceed with this hint?",
+        "turn_context": "### Completed APIs\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2, confirm_details = True)\n### Active APIs\n",
+        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1, confirm_details = True)\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2, confirm_details = True)\n### Active APIs\n",
+        "system_action": [
+            "Report(None, **Hint (Tier 2) for Strawberry #15**\n\nYou'll need to use the lift to reach the strawberry. Time your jump carefully to avoid the spikes.\n\n*Source: STEAM COMMUNITY*)"
+        ],
+        "user_target_sp": "request_hint_1.confirm_details = True",
+        "user_target": "request_hint_1.confirm_details = True",
+        "user_target_suql": ""
+    },
+    {
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
+        "user": "no, can i have hint tier 3",
+        "bot": "> Just to confirm: would you like to proceed with the hint for the collectible **strawberry_15**?",
+        "turn_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2)\n### Active APIs\nrequest_hint_2 = RequestHint(collectible_id = 'strawberry_15', hint_tier = 3)\n",
+        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1)\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2)\n### Active APIs\nrequest_hint_2 = RequestHint(collectible_id = 'strawberry_15', hint_tier = 3)\n",
+        "system_action": [
+            "AskField(request_hint_2, confirm_details, 'Whether the user wishes to proceed with the provided game information')"
+        ],
+        "user_target_sp": "RequestHint(collectible_id='strawberry_15', hint_tier=3, confirm_details=True)",
+        "user_target": "request_hint_2 = RequestHint(collectible_id='strawberry_15', hint_tier=3, confirm_details=True)",
+        "user_target_suql": ""
+    },
+    {
+        "session_id": "ecbde34f-d875-4e5c-8a37-29a1e8a7d515",
+        "user": "yes",
+        "bot": "> I have a hint for the collectible **strawberry_15** (Tier 3):\n>\n> In the room after strawberry 14, ensure the lift is stationary. Fall towards the spikes and dash upwards to grab the lift's right side. As it moves towards the strawberry, quickly jump and grab the wall to collect the berry, then hop back to the lift. Finally, jump onto the wooden platform as the lift returns to collect the strawberry.\n>\n> *Source: STEAM COMMUNITY*",
+        "turn_context": "### Completed APIs\nrequest_hint_2 = RequestHint(collectible_id = 'strawberry_15', hint_tier = 3, confirm_details = True)\n### Active APIs\n",
+        "global_context": "### Completed APIs\nrequest_hint = RequestHint(collectible_id = 'strawberry_14', hint_tier = 1, confirm_details = True)\nrequest_hint_1 = RequestHint(collectible_id = 'strawberry_14', hint_tier = 2, confirm_details = True)\nrequest_hint_2 = RequestHint(collectible_id = 'strawberry_15', hint_tier = 3, confirm_details = True)\n### Active APIs\n",
+        "system_action": [
+            "Report(None, **Hint (Tier 3) for Strawberry #16**\n\nIn the room after strawberry 14, ensure the lift is stationary. Fall towards the spikes and dash upwards to grab the lift's right side. As it moves towards the strawberry, quickly jump and grab the wall to collect the berry, then hop back to the lift. Finally, jump onto the wooden platform as the lift returns to collect the strawberry.\n\n*Source: STEAM COMMUNITY*)"
+        ],
+        "user_target_sp": "request_hint_2.confirm_details = True",
+        "user_target": "request_hint_2.confirm_details = True",
         "user_target_suql": ""
     }
 ]
